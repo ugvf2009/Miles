@@ -1,4 +1,5 @@
-# https://www.yyy666.tk  "一切都是刚刚开始！Everything is just beginning"
+# https://www.yyy666.tk  
+#"一切都是刚刚开始！Everything is just beginning"
 
 #二爷翻墙，专注翻墙30年。
 #China没有那么强大，准备迎接寒冬的到来吧！做中国梦的傻逼可以休矣！！！

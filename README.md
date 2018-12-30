@@ -44,7 +44,7 @@ Google一下，也有很多提供免费账号的网站，例如：https://free-s
  Google Play下载v2rayNG客户端软件。Google Play在历害国也是个奢侈的东西，
 国产这群傻逼厂商，用着Google的开源Android系统，把人家的官方商店也他妈的阉割了，不要个逼脸。
 当然细心的二爷也给你上传好了，
-##下载地址：https://www.lanzous.com/i2p1zjc
+##下载地址：https://www.lanzous.com/i2qjyab
 使用方法：打开软件，点左上角>订阅设置>选右上角有个+号，
 备注随便写>然后在地址（URl）那填写>https://jiang.netlify.com 然后点右上角的小对号保存。点<-退出
 点左上角，选》配置文件。点右上角的三个小点，点击》更新订阅，就能收到二爷给您准备好的服务器了。选择一个，

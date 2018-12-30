@@ -1,5 +1,5 @@
 # https://www.yyy666.tk
-###想弄一个服务器的网站。
+#二爷翻墙，专注翻墙30年。
 前言：
 由于众所周知的原因，西朝鲜的很多民众由于信息封锁，无法访问民主宪政国家的大型网站，很多真相被蒙蔽。
 如Google，Twitter，Facebook，Instagram，Telegram，Tumblr等、

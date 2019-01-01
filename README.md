@@ -24,28 +24,28 @@
 从此告别傻逼傲慢无知没有独立思考能力的自己、做一个有点儿思想的自己。人到暮年，告诉自己儿孙，自己活过。 
 Everything is just begining
 		
-							二爷2018年12月8日于厦门
+	二爷2018年12月8日于厦门
 
 -windows平台软件：
-1、无界（某功软件，挺坚挺的，速度Youtube 4K无压力，要爱党哦^_^）
+1.无界（某功软件，挺坚挺的，速度Youtube 4K无压力，要爱党哦^_^）
 下载地址：[](https://github.com/wujieliulan/download/blob/master/u.zip)
 上面如果不稳定，点这里：https://www.lanzous.com/i2k2l9e（复制到浏览器打开）
-2、Shadowsocks（付费方案，当然神奇的网络有人分享账号的，用此工具一扫用就可以了。）
+2.Shadowsocks（付费方案，当然神奇的网络有人分享账号的，用此工具一扫用就可以了。）
 速度和安全性要求高的，可以考虑付费方案。
 官方Windows平台下载地址：https://github.com/shadowsocks/shadowsocks-windows/releases
 使用方法点击右键扫描二维码或者导入类似于这种ss://XX8XXXX 链接即可。
 Google一下，也有很多提供免费账号的网站，例如：https://free-ss.site/
 
 -Android平台软件
-1、shadowsocks for android
+1.shadowsocks for android
 下载链接：https://github.com/shadowsocks/shadowsocks-android/releases 
 根据自己手机的架构下载即可。多数是arm64的。
-2、v2ray 
-这个工具也是一个多平台的神器。官网：https://v2ray.com(需要翻墙)
+2.v2ray 
+这个工具也是一个多平台的神器。官网(需翻墙访问)：https://v2ray.com
  Google Play下载v2rayNG客户端软件。Google Play在历害国也是个奢侈的东西，
 国产这群傻逼厂商，用着Google的开源Android系统，把人家的官方商店也他妈的阉割了，不要个逼脸。
 当然细心的二爷也给你上传好了，
-##下载地址：https://www.lanzous.com/i2qjyab
+下载地址：https://www.lanzous.com/i2qjyab
 使用方法：打开软件，点左上角>订阅设置>选右上角有个+号，
 备注随便写>然后在地址（URl）那填写>https://jiang.netlify.com 然后点右上角的小对号保存。点<-退出
 点左上角，选》配置文件。点右上角的三个小点，点击》更新订阅，就能收到二爷给您准备好的服务器了。选择一个，
@@ -66,10 +66,10 @@ Google一下，也有很多提供免费账号的网站，例如：https://free-s
 注：这个软件是付费软件，2.99$哦，请珍惜。
 
 -Mac平台
-1、shadowsocks
+1.shadowsocks
 https://github.com/shadowsocks/ShadowsocksX-NG/releases 
 使用配置方法很简单。和windows差不多。
-2、v2ray
+2.v2ray
 https://github.com/Cenmrev/V2RayX/releases
 使用方法Google吧，很简单的。
 

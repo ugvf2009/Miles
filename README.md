@@ -28,8 +28,8 @@ Everything is just begining
 
 -windows平台软件：
 1.无界（某功软件，挺坚挺的，速度Youtube 4K无压力，要爱党哦^_^）
-下载地址：[](https://github.com/wujieliulan/download/blob/master/u.zip)
-上面如果不稳定，点这里：https://www.lanzous.com/i2k2l9e（复制到浏览器打开）
+下载地址:https://github.com/wujieliulan/download/blob/master/u.zip
+上面如果不稳定，点这里：https://www.lanzous.com/i2k2l9e
 2.Shadowsocks（付费方案，当然神奇的网络有人分享账号的，用此工具一扫用就可以了。）
 速度和安全性要求高的，可以考虑付费方案。
 官方Windows平台下载地址：https://github.com/shadowsocks/shadowsocks-windows/releases
@@ -67,7 +67,7 @@ Google一下，也有很多提供免费账号的网站，例如：https://free-s
 
 -Mac平台
 1.shadowsocks
-[]https://github.com/shadowsocks/ShadowsocksX-NG/releases
+https://github.com/shadowsocks/ShadowsocksX-NG/releases
 使用配置方法很简单。和windows差不多。
 2.v2ray
 https://github.com/Cenmrev/V2RayX/releases

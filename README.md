@@ -67,7 +67,7 @@ Google一下，也有很多提供免费账号的网站，例如：https://free-s
 
 -Mac平台
 1.shadowsocks
-https://github.com/shadowsocks/ShadowsocksX-NG/releases 
+[](https://github.com/shadowsocks/ShadowsocksX-NG/releases) 
 使用配置方法很简单。和windows差不多。
 2.v2ray
 https://github.com/Cenmrev/V2RayX/releases

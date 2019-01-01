@@ -1,8 +1,8 @@
-# https://www.yyy666.tk  
-#"一切都是刚刚开始！Everything is just beginning"
+# 二爷翻墙网 
 
-#二爷翻墙，专注翻墙30年。
-#China没有那么强大，准备迎接寒冬的到来吧！做中国梦的傻逼可以休矣！！！
+
+##二爷翻墙，专注翻墙30年。
+-China没有那么强大，准备迎接寒冬的到来吧！做中国梦的傻逼可以休矣！！！
 
 前言：
 由于众所周知的原因，西朝鲜的很多民众由于信息封锁，无法访问民主宪政国家的大型网站，很多真相被蒙蔽。
@@ -22,13 +22,13 @@
 二爷做为资深爬墙看片爱好者，特此写了本教程。让你从小白秒变小小白。
 来吧，访问世界文明，自由，拥抱普世价值！ 
 从此告别傻逼傲慢无知没有独立思考能力的自己、做一个有点儿思想的自己。人到暮年，告诉自己儿孙，自己活过。 
-Everything is just begining--
+Everything is just begining
 		
 							二爷2018年12月8日于厦门
 
-###windows平台软件：
+-windows平台软件：
 1、无界（某功软件，挺坚挺的，速度Youtube 4K无压力，要爱党哦^_^）
-下载地址：https://github.com/wujieliulan/download/blob/master/u.zip
+下载地址：[](https://github.com/wujieliulan/download/blob/master/u.zip)
 上面如果不稳定，点这里：https://www.lanzous.com/i2k2l9e（复制到浏览器打开）
 2、Shadowsocks（付费方案，当然神奇的网络有人分享账号的，用此工具一扫用就可以了。）
 速度和安全性要求高的，可以考虑付费方案。
@@ -36,7 +36,7 @@ Everything is just begining--
 使用方法点击右键扫描二维码或者导入类似于这种ss://XX8XXXX 链接即可。
 Google一下，也有很多提供免费账号的网站，例如：https://free-ss.site/
 
-###Android平台软件
+-Android平台软件
 1、shadowsocks for android
 下载链接：https://github.com/shadowsocks/shadowsocks-android/releases 
 根据自己手机的架构下载即可。多数是arm64的。
@@ -51,7 +51,7 @@ Google一下，也有很多提供免费账号的网站，例如：https://free-s
 点左上角，选》配置文件。点右上角的三个小点，点击》更新订阅，就能收到二爷给您准备好的服务器了。选择一个，
 点右下角的小V，连接，即可连接国际互联网了。从此上车，随便飞。记得经常更新订阅哦。
 
-###IOS平台
+-IOS平台
 ：）水果机需要一个美区的ID,国区由于历害国原因，下架了，
 当然细心的二爷已经给你准备好了。
 账号：helloworld1x@gmail.com 密码：Aa123789 
@@ -65,7 +65,7 @@ Google一下，也有很多提供免费账号的网站，例如：https://free-s
 二爷有时很勤快，当然在不用照顾孩子的情况下，会经常更新一些速度快的服务器给大伙。当然也包括二爷自己花钱买的。
 注：这个软件是付费软件，2.99$哦，请珍惜。
 
-###Mac平台
+-Mac平台
 1、shadowsocks
 https://github.com/shadowsocks/ShadowsocksX-NG/releases 
 使用配置方法很简单。和windows差不多。
@@ -73,7 +73,7 @@ https://github.com/shadowsocks/ShadowsocksX-NG/releases
 https://github.com/Cenmrev/V2RayX/releases
 使用方法Google吧，很简单的。
 
-###Linux:
+-Linux:
 都用Linux了肯定是大佬级别了,上面的软件基本上都支持Linux平台，使用方法就不废话了。^_^
 自行Google之。最后一句话，善用Google，很多问题都有答案。你会发现，你会更爱这个世界！
 

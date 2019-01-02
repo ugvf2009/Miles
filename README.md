@@ -10,9 +10,11 @@
 
 1.无界 
 [点我下载](https://www.lanzous.com/i2k2l9e  "点我下载")
+
 2.Shadowsocks
 [点我下载](https://github.com/shadowsocks/shadowsocks-windows/releases "点我下载")
 使用方法点击右键扫描二维码或者导入类似于这种ss://XX8XXXX 链接即可。 Google一下，也有很多提供免费账号的网站，例如：https://free-ss.site/
+
 3.v2ray
 [下载打开即食套餐](https://www.lanzous.com/i2rfdda "下载打开即食套餐")
 `记得点“订阅》更新订阅”就能收到二爷给你维护的服务器节点了。`
@@ -29,7 +31,7 @@
  这个工具也是一个多平台的神器。
  官网：https://v2ray.com
  `Google Play下载不了v2rayNG客户端软件。Google Play在历害国也是个奢侈的东西， 国产这群傻逼厂商，用着Google的开源Android系统，把人家的官方商店也他妈的阉割了，不要个逼脸。 当然细心的二爷也给你上传好了`
- 下载地址：https://www.lanzous.com/i2qjyab 
+ 下载地址：[点我下载](https://www.lanzous.com/i2qjyab) 
  使用方法：打开软件，点左上角>订阅设置>选右上角有个+号， 备注随便写>然后在地址（URL）那填写>https://jiang.netlify.com 然后点右上角的小对号保存。点←退出 点左上角，选》配置文件。点右上角的三个小点，点击》更新订阅，就能收到二爷给您准备好的服务器了。选择一个， 点右下角的小V，连接，即可连接国际互联网了。从此上车，随便飞。记得经常更新订阅哦。
 
 ## -IOS平台 

@@ -53,8 +53,14 @@
 
 ## -Mac平台 
 1.shadowsocks 
-https://github.com/shadowsocks/ShadowsocksX-NG/releases 使用配置方法很简单。和windows差不多。 
-2.v2ray https://github.com/Cenmrev/V2RayX/releases 使用方法Google吧，很简单的。
+[下载地址](https://github.com/shadowsocks/ShadowsocksX-NG/releases)
+
+使用配置方法很简单。和windows差不多。 
+
+2.v2ray 
+[下载地址](https://github.com/Cenmrev/V2RayX/releases)
+
+使用方法Google吧，很简单的。
 
 ## -Linux
 都用Linux了肯定是大佬级别了,上面的软件基本上都支持Linux平台，使用方法就不废话了。^_^ 自行Google之。最后一句话，善用Google，很多问题都有答案。你会发现，你会更爱这个世界！

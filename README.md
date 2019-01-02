@@ -53,11 +53,13 @@
 
 ## -Mac平台 
 1.shadowsocks 
+
 [下载地址](https://github.com/shadowsocks/ShadowsocksX-NG/releases)
 
 使用配置方法很简单。和windows差不多。 
 
 2.v2ray 
+
 [下载地址](https://github.com/Cenmrev/V2RayX/releases)
 
 使用方法Google吧，很简单的。

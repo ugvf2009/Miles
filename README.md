@@ -24,7 +24,7 @@
 ------------
 
 1.shadowsocks
-下载链接：[点我即可](https://github.com/shadowsocks/shadowsocks-android/releases/download/v4.6.5/shadowsocks-arm64-v8a-4.6.5.apk "下载地址")
+下载链接：[点我即可](https://www.lanzous.com/i2rr16d "下载地址")
 
 ------------
 

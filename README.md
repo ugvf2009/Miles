@@ -12,7 +12,7 @@
 [点我下载](https://www.lanzous.com/i2k2l9e  "点我下载")
 
 2.Shadowsocks
-[点我下载](https://github.com/shadowsocks/shadowsocks-windows/releases "点我下载")
+[点我下载](https://www.lanzous.com/i2rr23g  "点我下载")
 
 使用方法点击右键扫描二维码或者导入类似于这种ss://XX8XXXX 链接即可。 Google一下，也有很多提供免费账号的网站，例如：https://free-ss.site/
 

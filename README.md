@@ -23,7 +23,7 @@ Google一下，也有很多提供免费账号的网站，
 例如：https://free-ss.site/
 
 3.v2ray
-[下载打开即食套餐](https://www.lanzous.com/i2ukawj "下载打开即食套餐")
+[点我下载打开即食套餐](https://www.lanzous.com/i2ukawj "下载打开即食套餐")
 
 
 `记得点“订阅》更新订阅”就能收到二爷给你维护的服务器节点了。双击V2rayN.exe 在右下角图标处，点右键，选择‘启用Http代理’`

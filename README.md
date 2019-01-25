@@ -18,7 +18,7 @@
 
 2.v2ray
 
-[点我下载](https://www.lanzous.com/i2vhwah)
+[点我下载](https://www.lanzous.com/i2z9wkd)
 
 双击V2rayN.exe 即可使用
 记得经常点下“订阅》更新订阅”就能收到二爷给你维护的服务器节点了。

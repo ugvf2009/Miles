@@ -57,8 +57,10 @@
 * 密码：Aa123789 
 
  在app store里登陆，不要登陆icloud（否则可能同步你的小皂片儿、视频啥的，不想成为冠希哥，你还是仔细看二爷的教程）。
+ 
 **注意！注意！注意!**
-**在iphone的设置那里，就能看到。选择app store那个登陆。 搜索Shadowroket 并下载。**
+
+**在iphone的设置那里，就能看到。选择app store那个登陆。 搜索Shadowrocket 并下载。**
 
 * * *
 

@@ -16,7 +16,7 @@
 
 1.无界 
 
-[点我下载](https://www.lanzous.com/i31xpgd)
+[点我下载](https://www.lanzous.com/i367nkj)
 下载解压后，双击.exe文件即可使用。
 
 * * *

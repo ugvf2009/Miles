@@ -17,14 +17,19 @@
 1.无界 
 
 [点我下载](https://www.lanzous.com/i367nkj)
-下载解压后，双击.exe文件即可使用。非常适合小小白使用，因为它只需要你双击即可，自动跳转至某功的网站。
-如果你对某功反感，就直接用它访问你的Google吧。
+
+下载解压后，双击.exe文件即可使用。
+
+非常适合小小白使用，因为它只需要你双击即可，自动跳转至某功的网站。
+
+如果你对某功反感，就拿它当个工具爬墙也不错，直接用它访问你的Google吧。
 
 * * *
 
 2.v2ray
  官网：[https://v2ray.com](https://v2ray.com)（需翻墙）
-访问不了点我：[https://v2ray1.netlify.com](点我)
+ 
+[访问不了点我：](https://v2ray1.netlify.com)
 
 [点我下载懒人包](https://www.lanzous.com/i3k70za)
 
@@ -72,7 +77,8 @@
 
 * 每次打开软件后，更新一下，就可以收到二爷维护的服务器节点。 
 
-* Shadowrocket里有设置，可以每次打开Shadowrocket软件自动更新二爷的订阅，自行摸索一下。 
+* Shadowrocket里有设置，可以每次打开Shadowrocket软件自动更新二爷的订阅，自行摸索一下。
+
 * 一般选SS协议或者TCP协议的即可，因为Shadowrocket对KCP好像不支持。
 
 * * *
@@ -83,7 +89,7 @@
 
 [点我下载](https://github.com/shadowsocks/ShadowsocksX-NG/releases)
 
-使用配置方法很简单。和windows差不多。 
+使用配置方法也很简单。和windows差不多,但是多少需要你懂点英文，因为软件是英文的。 
 
 2.v2ray 
 

@@ -29,7 +29,7 @@
 2.v2ray
  官网：[https://v2ray.com](https://v2ray.com)（需翻墙）
  
-[访问不了点我：](https://v2ray1.netlify.com)
+[愿意折腾的，点我一下：](https://v2ray1.netlify.com)
 
 [点我下载懒人包](https://www.lanzous.com/i3k70za)
 

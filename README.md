@@ -23,8 +23,10 @@
 * * *
 
 2.v2ray
+ 官网：[https://v2ray.com](https://v2ray.com)（需翻墙）
+访问不了点我：[https://v2ray1.netlify.com](点我)
 
-[点我下载](https://www.lanzous.com/i3k70za)
+[点我下载懒人包](https://www.lanzous.com/i3k70za)
 
 解压后双击文件夹里 V2rayN.exe 即可使用
 记得经常点下“订阅》更新订阅”的菜单，就能收到二大爷给您维护的服务器了。
@@ -33,7 +35,7 @@
 
 1. v2ray 
 
- 官网：[https://v2ray.com](https://v2ray.com)（需翻墙）
+
  这个工具也是一个多平台的神器。
 >> Google Play下载不了v2rayNG客户端软件。Google Play在历害国也是个奢侈的东西， 国产这群傻逼厂商，用着Google的开源Android系统，把人家的官方商店也他妈的阉割了，不要个逼脸。 当然细心的二爷也给你上传好了
  

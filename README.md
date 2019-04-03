@@ -29,9 +29,8 @@
 2.v2ray
  官网：[https://v2ray.com](https://v2ray.com)（需翻墙）
  
-[愿意折腾的，点我一下：](https://v2ray1.netlify.com)
 
-[点我下载懒人包](https://www.lanzous.com/i3k70za)
+[点我下载懒人包](https://www.lanzous.com/i3n7hsd)
 
 解压后双击文件夹里 V2rayN.exe 即可使用
 记得经常点下“订阅》更新订阅”的菜单，就能收到二大爷给您维护的服务器了。

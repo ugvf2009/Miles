@@ -60,11 +60,15 @@
 ## IOS平台 
 ：）水果机需要一个美区的ID,国区由于历害国原因，下架了， 当然细心的二爷已经给你准备好了。 
 
-* 账号：scdxcpy@outlook.com
+* 账号：net928net@gmail.com
 
-* 密码：16gongzhonghao:SCDxC
+* 密码：hi928NET
 
- 在app store里登陆，不要登陆icloud（否则可能同步你的小皂片儿、视频啥的，不想成为冠希哥，你还是仔细看二爷的教程）。
+ 在app store里登陆，
+ 
+ **不要登陆icloud**
+ 
+ （否则可能同步你的小皂片儿、视频啥的，不想成为冠希哥，你还是仔细看二爷的教程）。
  
 **注意！注意！注意!**
 
@@ -72,11 +76,13 @@
 
 * * *
 
-* 俗称“小火箭”下载Shadowrocket后， 右上角的+号，add subscribe 添加二爷的订阅地址：https://jiang.netlify.com 
+* 下载Shadowrocket后， 点右上角的 + 号，选择add subscribe 添加二爷的订阅地址：https://jiang.netlify.com 
+
+**注意http后面是有“s”的**
 
 * 每次打开软件后，更新一下，就可以收到二爷维护的服务器节点。 
 
-* Shadowrocket里有设置，可以每次打开Shadowrocket软件自动更新二爷的订阅，自行摸索一下。
+* Shadowrocket里有设置，可以设置打开Shadowrocket软件自动更新二爷的订阅，自行摸索一下。
 
 * 一般选SS协议或者TCP协议的即可，因为Shadowrocket对KCP好像不支持。
 

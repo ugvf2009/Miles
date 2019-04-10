@@ -60,9 +60,9 @@
 ## IOS平台 
 ：）水果机需要一个美区的ID,国区由于历害国原因，下架了， 当然细心的二爷已经给你准备好了。 
 
-* 账号：wxinpay@gmail.com
+* 账号：scdxcpy@outlook.com
 
-* 密码：RRrr1122
+* 密码：16gongzhonghao:SCDxC
 
  在app store里登陆，不要登陆icloud（否则可能同步你的小皂片儿、视频啥的，不想成为冠希哥，你还是仔细看二爷的教程）。
  

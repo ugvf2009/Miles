@@ -36,10 +36,10 @@
 如果发现连接不上Google。
 按此方法操作：
 
-1：![1.png](https://i.loli.net/2019/04/25/5cc12d036ad65.png)
+![1.png](https://i.loli.net/2019/04/25/5cc12d036ad65.png)
 
 
-2：![2.png](https://i.loli.net/2019/04/25/5cc12d03c15fb.png)
+![2.png](https://i.loli.net/2019/04/25/5cc12d03c15fb.png)
 
 ## Android平台软件
 

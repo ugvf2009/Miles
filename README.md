@@ -3,6 +3,8 @@
 * 建立本站初衷，一直有人问我怎么翻墙，本人比较懒，就建立了本站，教程完全是按照对翻墙不懂的小白写的，工具基本上都是打开即用的。如果你们因为二大爷的翻墙教程，能够科学上网，拯救智商受益了。本人将由衷欣慰。使用二爷软件时，请及时卸载各种“360爱国卫士”，因为他会监控你。
 
 *  **如果发现分享的链接失效，Windows系统请按Ctrl+R 刷新本页面**
+*  **由于二爷精力和工作原因，手里可用翻墙账号有限，如果你有多余的V2ray或者Shadowsocks账号，欢迎把配置文本内容发送至二爷邮箱：[minzhuziyou@protonmail.com](minzhuziyou@protonmail.com "minzhuziyou@protonmail.com")**
+**让更多的人看看外面的世界**
 
 * 主站点: [https://www.yyy666.ml](https://www.yyy666.ml)
 
@@ -69,21 +71,22 @@
 
 * 密码：hi928NET
 
- 在app store里登陆，
- 
-**不要登陆icloud**
+
+
+ **不要登陆icloud**
 
 **不要登陆icloud**
 
 **不要登陆icloud**
 
 - 重要的事儿要说三遍
- 
- （如果你执意这样，那可能会同步你的小皂片儿、视频啥的，不想成为冠希哥，你还是仔细看二爷的教程）
+- 在app store里登陆，
+
  
 
 **在iphone的设置那里，就能看到。选择app store那个登陆。 搜索Shadowrocket 并下载。**
-
+ 
+（如果你执意这样，那可能会同步你的小皂片儿、视频啥的，不想成为冠希哥，你还是仔细看二爷的教程）
 * * *
 
 * 下载Shadowrocket后， 点右上角的 + 号，
@@ -96,7 +99,7 @@
 
 * Shadowrocket里有设置，可以设置打开Shadowrocket软件自动更新二爷的订阅，自行摸索一下。
 
-* 一般选SS协议或者TCP协议的即可，目前Shadowrocket对KCP不支持。
+* 一般选SS协议或者TCP协议的即可，目前Shadowrocket对KCP协议不支持。
 
 * * *
 注：这个软件是付费软件，2.99$哦，请珍惜。

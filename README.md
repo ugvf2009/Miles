@@ -19,7 +19,7 @@
 
 1.无界 
 
-[点我下载](https://www.lanzous.com/i367nkj)
+[点我下载](https://github.com/ugvf2009/Miles/blob/master/freedom.7z)
 
 下载解压后，双击.exe文件即可使用。
 
@@ -33,7 +33,7 @@
  官网：[https://v2ray.com](https://v2ray.com)（需翻墙）
  
 
-[点我下载懒人包](https://www.lanzous.com/i3v99uh)
+[点我下载懒人包](https://github.com/ugvf2009/Miles/blob/master/v2rayN-Core.7z)
 
 解压后双击文件夹里 V2rayN.exe 即可使用。
 如果发现连接不上Google。
@@ -53,7 +53,7 @@
 >Google Play下载不了v2rayNG客户端软件。Google Play在历害国也是个奢侈的东西，国产这群跪舔的傻逼厂商，
 用着Google的开源Android系统，把人家的官方商店也他妈的阉割了，不要个逼脸。 当然细心的二爷也给你上传好了
 
-下载地址：[点我下载](https://www.lanzous.com/i3wpndg) 
+下载地址：[点我下载](https://github.com/ugvf2009/Miles/blob/master/v2rayNG_v0.6.20.apk) 
  ------------
  使用方法：
 
@@ -105,17 +105,12 @@
 注：这个软件是付费软件，2.99$哦，请珍惜。
 
 ## -Mac平台 
-1.shadowsocks 
 
-[点我下载](https://github.com/shadowsocks/ShadowsocksX-NG/releases)
+1.v2ray 
 
-使用配置方法也很简单。和windows差不多,但是多少需要你懂点英文，因为软件是英文的。 
+[点我下载](https://github.com/Cenmrev/V2RayX/releases/download/v1.5.1/V2RayX.app.zip)
 
-2.v2ray 
-
-[点我下载](https://github.com/Cenmrev/V2RayX/releases)
-
-使用方法Google吧，很简单的。
+使用方法Google吧，很简单的，需要会点儿常用计算机术语。
 
 ## -Linux
 

@@ -70,14 +70,14 @@
 ##  IOS平台 
 ：）水果机需要一个美区的ID,国区由于历害国原因，下架了， 当然细心的二爷已经给你准备好了。 
 
-* 账号：net928net@gmail.com
 
-* 密码：hi928NET
+*账：scdxcpy@outlook.com
 
-* 账号：scdxclaopy@outlook.com
+*密：15gongzhonghao:SCDxC
 
-* 密码：15gongzhonghao:SCDxC
+*账：scdxcpy@163.com
 
+*密：15gongzhonghao:SCDxC
 
 
 - 不要登陆icloud（说3遍）

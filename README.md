@@ -86,13 +86,9 @@
 ：）水果机需要一个美区的ID,国区由于历害国原因，下架了， 当然细心的二爷已经给你准备好了。 
 
 
-账：scdxclaopy@outlook.com
+账：mm-gzs@qq.com
 
-密：36gongzhonghao:SCDxC
-
-账：scdxcpy@163.com
-
-密：25gongzhonghao:SCDxC  
+密：43Gongzhonghao:kzddck
 
 -注意密码的大小写。
 

@@ -21,9 +21,9 @@
 *  **由于二爷精力和工作原因，手里可用翻墙账号有限，如果你有多余的V2ray或者Shadowsocks账号，欢迎把配置文本内容发送至二爷邮箱：[minzhuziyou@protonmail.com](minzhuziyou@protonmail.com "minzhuziyou@protonmail.com")**
 **让更多的人看看外面的世界**
 
-* 主站点: [https://www.yyy666.ml](https://www.yyy666.ml)
+* 主站点: [https://www.yyy666.ml](https://www.yyy666.ml)(被墙了，擦！)
 
-* 备用网站: [http://5414.ml](http://5414.ml)
+* 备用网站: [https://5414.ml](https://5414.ml)
 
 
 你二大爷2018年12月8日 于匪区

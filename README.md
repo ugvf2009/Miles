@@ -21,9 +21,7 @@
 *  **由于二爷精力和工作原因，手里可用翻墙账号有限，如果你有多余的V2ray或者Shadowsocks账号，欢迎把配置文本内容发送至二爷邮箱：[minzhuziyou@protonmail.com](minzhuziyou@protonmail.com "minzhuziyou@protonmail.com")**
 **让更多的人看看外面的世界**
 
-* 主站点: [https://www.yyy666.ml](https://www.yyy666.ml)(被墙了，擦！)
-
-* 备用网站: [https://www.5414.ml](https://www.5414.ml)
+* 网站: [https://www.5414.ml](https://www.5414.ml)
 
 
 你二大爷2018年12月8日 于匪区
@@ -32,19 +30,7 @@
 
 * * *
 
-1.无界 (敏感人士和特殊地区慎用，如新疆等地,此方案仅为备用方案，切勿常时间使用 )
-
-[点我下载](https://github.com/ugvf2009/Miles/raw/master/freedom.7z)
-
-下载解压后，双击.exe文件即可使用。
-
-非常适合小小白使用，因为它只需要你双击即可，自动跳转至某功的网站。
-
-如果你对某功反感，就拿它当个工具爬墙也不错，直接用它访问你的Google吧。
-
-* * *
-
-2.v2ray
+1.v2ray
  官网：[https://v2ray.com](https://v2ray.com)（需翻墙）
  
 

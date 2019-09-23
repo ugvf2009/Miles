@@ -12,7 +12,7 @@
 需要邀请身边的小伙伴即可无限流量哦，这个可以做**为备用**，因为二爷维护的项目也很好用
 
 
-[点我下载](https://ant.antss024.com/aff/gG8e "点我下载")
+[点我下载](https://ant.antss028.com/aff/6yy8 "点我下载")
 
 ------------
 
@@ -75,75 +75,4 @@
 
 ### Shadowrocket(俗称“小火箭”)
 
-：）水果机需要一个美区的ID,国区由于历害国原因，下架了， 当然细心的二爷已经给你准备好了。 
-
-| 账号                                                         | 密码                      |
-| :----------------------------------------------------------- | :------------------------ |
-| 9/16更新 smgyangfan02@163.com                                | 15gongzhonghao:SMGfuli    |
-| 9/16更新 mdsscloud@hotmail.com 【已购应用: shadowsocket、Quantumlt】 | Lmd1995. （看好末尾的点） |
-| 9/16更新 814141460@qq.com                                    | Lmd1995@126.com           |
-| 9/15更新 840957322@qq.com                                    | Zxbtb123                  |
-| 9/15更新 luyiliu72@gmail.com                                 | Ss12345678                |
-| 9/6更新 mm-gzs@qq.com                                        | 404Gongzhonghaokzddck     |
-| 9/6更新：4SSGIT@Gmail.com                                    | 4ssGit1234                |
-| 9/6更新 lghcav61@icloud.com                                  | Ab112211                  |
-| 9/6更新 1714477@Gmail.com                                    | Freeidxyz1234             |
-
-
-
-也可以来这个网站来找账号。[https://wohaobang.cn/](https://wohaobang.cn/ "https://wohaobang.cn/")
-
--注意密码的大小写。
-
-
-- 千万不要在 iCloud 中登陆 Apple ID（请在心里说3遍）
-
-- 在 App Store 登录账号并使用完成后，一定要及时注销！
-
-一定在app store里登陆，（如果你执意这样，那可能会同步你的小皂片儿、视频啥的，不想成为冠希哥，你还是仔细看二爷的教程，不好好看设备被锁别怨我啊）
-
-- 登陆方法如下:
-
-- 在iphone（&ipad）的设置那里，就能看到。选择app store的那个登陆。 如果已经有登陆账号，退一下，登陆成功后打开Apple Store里搜索Shadowrocket 并下载。
-
-* * *
-
-* 下载Shadowrocket后， 点右上角的 + 号，
-* 选择add subscribe 
-* 添加二爷的订阅地址：[https://jiang.netlify.com ](https://jiang.netlify.com  "https://jiang.netlify.com ")
-
-**注意http后面是有“s”的**
-
-* 每次打开软件后，更新一下，就可以收到二爷维护的服务器节点(ios更新方法是，在订阅地址那里，右滑二爷的订阅地址，选择“更新”)。 
-
-
-* 一般选SS协议或者TCP协议的即可，目前Shadowrocket对KCP协议不支持。
-  注：这个软件是付费软件，2.99$哦，请珍惜，对于不会把Appid转区或者没有美区账号的人，这已经是一个很高的门槛了。
-
-* 当然你也可以选择在线安装：[https://小火箭.xyz](https://小火箭.xyz  "https://小火箭.xyz ")
-
-* 或者来这里也有相关方法教程。[https://freeid.xyz](https://freeid.xyz/ "https://freeid.xyz/")
-
-
-## 4、Mac平台 
-
-
-
-### [点我下载V2rayX](https://github.com/Cenmrev/V2RayX/releases/download/v1.5.1/V2RayX.app.zip)
-
-### [点我下载V2RayU](https://github.com/yanue/V2rayU/releases/download/1.4.1/V2rayU.dmg)
-
-### [点我下载ClashX](https://github.com/yichengchen/clashX/releases/download/1.10.6/ClashX.dmg)
-
-使用方法Google吧，很简单的，需要会点儿常用计算机术语（洋文）。
-
-## 5、Linux
-
-* 用Linux还不会翻墙会被别人笑话。自行Google吧，二爷暂时不提供Linux支持和服务。
-
-### [点我查看Linux翻墙教程](https://www.imcaviare.com/2018-12-18-1/)
-
-
-后记：由于众所周知的原因，西朝鲜的很多民众由于信息封锁，无法访问民主宪政国家的大型网站，很多真相被蒙蔽。 如Google，Twitter，Facebook，Instagram，Telegram，Tumblr等、 每天看CCAV无脑续集，看手撕鬼子神剧，某某傻逼创业日入万元， 火箭抹上了印度神油，又他妈射天去了，武器军队又牛逼了， 辽宁号装满柴油冒起黑烟出去装逼半道没油了，别人又不敢惹了，我们又有核武器了。 今天范冰冰怀孕，明天杨幂堕胎，马云又上讲台出售精神伟哥， 朋友拉微信让你进群，用话术套路你，“为你省钱”拼团领券立减了，让你消费他就从中获利（佣金）了， 某些傻逼又卖头脑风暴了，这是个欺骗的世界，无知的世界， 中国这群傻逼就是被仁、义、礼、智、信这些所谓的儒家思想给洗脑洗成傻逼了， 其实都他妈的是白天正人君子，晚上男盗女娼，都是一堆Loser。 如果哪个明星不生孩子了，CCAV频道都编不出故事啥哄你们开心了。 这是个戏子横行，婊子丛生，骗子臭不要脸的时代。从上到下跪舔的时代。 傻逼的行为不愿你们。你们也是无辜的，毕竟洗脑洗这么多年了。你们的可怜和无知，才需要在心中树立偶像英雄和领袖。 但我真心希望你们能在二爷的指导下，用二爷提供的方法出去感受一下，拥抱一下这个世界的文明。 二爷做为资深爬墙看片爱好者，特此写了本教程。让你从小白秒变小小白。 来吧，访问世界文明，自由，拥抱普世价值！ 从此告别傻逼傲慢无知没有独立思考能力的自己、做一个有点儿思想的自己。人到暮年，告诉自己儿孙，自己活过。
-
-**一切都是刚刚开始！Everything is just begining！**
+：）水果机需要一个美区的ID,国区由于历害国原因，下架了， 当然细心的二爷已经

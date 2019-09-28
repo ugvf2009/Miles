@@ -5,6 +5,7 @@
 * 本页面部分语言可能有背于社会主义科学价值观，不喜匆视即可。
 * 工具仅限于科学上网，学术研究等，请遵守相关法律法规，不做违背党和国家的事情。由此产生的后果，由使用者自己承担。
 * （上面是屁话）你干啥我也不知道，也管不着。
+*  如果害怕账号不安全，请自己买vps搭梯子。
 
 ------------
 
@@ -92,6 +93,9 @@
 
 
 也可以来这个网站来找账号。[https://wohaobang.cn/](https://wohaobang.cn/ "https://wohaobang.cn/")
+
+
+也可以来这里：[https://shadowsocks-help.github.io/Shadowsocks/appleid.html](https://shadowsocks-help.github.io/Shadowsocks/appleid.html "https://shadowsocks-help.github.io/Shadowsocks/appleid.html")
 
 -注意密码的大小写。
 

@@ -78,18 +78,10 @@
 
 ：）水果机需要一个美区的ID,国区由于历害国原因，下架了， 当然细心的二爷已经给你准备好了。 
 
-| 账号                                                         | 密码                      |
-| :----------------------------------------------------------- | :------------------------ |
-| 9/16更新 smgyangfan02@163.com                                | 15gongzhonghao:SMGfuli    |
-| 9/16更新 mdsscloud@hotmail.com 【已购应用: shadowsocket、Quantumlt】 | Lmd1995. （看好末尾的点） |
-| 9/16更新 814141460@qq.com                                    | Lmd1995@126.com           |
-| 9/15更新 840957322@qq.com                                    | Zxbtb123                  |
-| 9/15更新 luyiliu72@gmail.com                                 | Ss12345678                |
-| 9/6更新 mm-gzs@qq.com                                        | 404Gongzhonghaokzddck     |
-| 9/6更新：4SSGIT@Gmail.com                                    | 4ssGit1234                |
-| 9/6更新 lghcav61@icloud.com                                  | Ab112211                  |
-| 9/6更新 1714477@Gmail.com                                    | Freeidxyz1234             |
-
+| 账号1: | 4ssgit@Gmail.com  | 密码: | 4ssGit1234 | 已下载Shadowrocket小火箭 |
+| ------ | ----------------- | ----- | ---------- | ------------------------ |
+| 账号2: | 1714477@Gmail.com | 密码: | 4ssGit1234 |                          |
+| 账号3: | 1714411@Gmail.com | 密码: | 4ssGit1234 |                          |
 
 
 也可以来这个网站来找账号。[https://wohaobang.cn/](https://wohaobang.cn/ "https://wohaobang.cn/")

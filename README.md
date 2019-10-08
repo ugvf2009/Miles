@@ -31,6 +31,8 @@
 
 * 网站: [https://www.5414.ml](https://www.5414.ml)
 
+* 永久网址:[https://github.com/ugvf2009/Miles](https://github.com/ugvf2009/Miles)
+
 
 你二大爷2018年12月8日 于匪区
 
@@ -84,27 +86,23 @@
 
 ：）水果机需要一个美区的ID,国区由于历害国原因，下架了， 当然细心的二爷已经给你准备好了。 
 
-| 账号1: | 4ssgit@Gmail.com  | 密码: | 4ssGit1234 | 已下载Shadowrocket小火箭 |
-| ------ | ----------------- | ----- | ---------- | ------------------------ |
-| 账号2: | 1714477@Gmail.com | 密码: | 4ssGit1234 |                          |
-| 账号3: | 1714411@Gmail.com | 密码: | 4ssGit1234 |                          |
-| :----------------------------- | :----------------------------------------------------------- |
-| 9/22更新 zouchao0219@gmail.com | Aa00221199 【已购应用: shadowsocket、Quantumlt】             |
-| 9/22更新 79234457@qq.com       | Aa00221199                                                   |
-| 9/22更新 shareapid@gmail.com   | Share2200                                                    |
-| 9/20更新 smgyangfan02@163.com  | 15gongzhonghao:SMGfuli 【已购应用: shadowsocket、Quantumlt】 |
-| 9/20更新 mm-gzs@qq.com         | 46Gongzhonghaokzddck                                         |
+| 10/6更新 yezetec001@outlook.com | 201gongzhonghao:yezeTEC 【已购应用: shadowsocket】           |
+| :------------------------------ | :----------------------------------------------------------- |
+| 10/6更新 zouchao0219@gmail.com  | Aa00221199 【已购应用: shadowsocket、Quantumlt，nplayer）    |
+| 10/6更新 yezetec003@gmail.com   | 002gongzhonghao:yezeTEC 【已购应用: Quantumlt】）            |
+| 10/2更新 79234457@qq.com        | Aa00221188 【已购应用: shadowsocket】                        |
+| 9/20更新 smgyangfan02@163.com   | 15gongzhonghao:SMGfuli 【已购应用: shadowsocket、Quantumlt】 |
+| 9/20更新 mm-gzs@qq.com          | 46Gongzhonghaokzddck                                         |
+
+也可以来这个网站来找账号。[https://wohaobang.cn/](https://wohaobang.cn)
 
 
-也可以来这个网站来找账号。[https://wohaobang.cn/](https://wohaobang.cn/ "https://wohaobang.cn/")
-
-
-也可以来这里：[https://shadowsocks-help.github.io/Shadowsocks/appleid.html](https://shadowsocks-help.github.io/Shadowsocks/appleid.html "https://shadowsocks-help.github.io/Shadowsocks/appleid.html")
+也可以来这里：[https://shadowsocks-help.github.io/Shadowsocks/appleid.html](https://shadowsocks-help.github.io/Shadowsocks/appleid.html)
 
 -注意密码的大小写。
 
 
-- 千万不要在 iCloud 中登陆 Apple ID（请在心里说3遍）
+- 千万不要在 iCloud 中登陆 Apple ID（请在心里说3遍或者5遍）
 
 - 在 App Store 登录账号并使用完成后，一定要及时注销！
 
@@ -118,7 +116,7 @@
 
 * 下载Shadowrocket后， 点右上角的 + 号，
 * 选择add subscribe 
-* 添加二爷的订阅地址：[https://jiang.netlify.com ](https://jiang.netlify.com  "https://jiang.netlify.com ")
+* 添加二爷的订阅地址：[https://jiang.netlify.com ](https://jiang.netlify.com)
 
 **注意http后面是有“s”的**
 

@@ -134,12 +134,11 @@
 ## 4、Mac平台 
 
 
-
-### [点我下载V2rayX](https://github.com/Cenmrev/V2RayX/releases/download/v1.5.1/V2RayX.app.zip)
+### [点我下载ClashX](https://github.com/yichengchen/clashX/releases/download/1.10.9/ClashX.dmg)
 
 ### [点我下载V2RayU](https://github.com/yanue/V2rayU/releases/download/1.4.1/V2rayU.dmg)
 
-### [点我下载ClashX](https://github.com/yichengchen/clashX/releases/download/1.10.9/ClashX.dmg)
+
 
 使用方法Google吧，很简单的，需要会点儿常用计算机术语（洋文）。
 

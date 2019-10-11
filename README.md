@@ -12,6 +12,7 @@
 二爷给大家推荐一款，安卓,苹果,Mac,Windows 好用的加速器 刷INS、访推特，完美支持高清1080P视频，无任何流量限制,真正免费的加速器.
 需要邀请身边的小伙伴即可无限流量哦，这个可以做**为备用**，因为二爷维护的项目也很好用
 
+下面链接不一定哪一个能打开，因为不同地址，网络环境不一样，自己都试着点一下吧。
 
 [点我下载](https://ant.antss026.com/aff/7fCv "点我下载")
 
@@ -126,7 +127,7 @@
 * 一般选SS协议或者TCP协议的即可，目前Shadowrocket对KCP协议不支持。
   注：这个软件是付费软件，2.99$哦，请珍惜，对于不会把Appid转区或者没有美区账号的人，这已经是一个很高的门槛了。
 
-* 当然你也可以选择在线安装：[https://小火箭.xyz](https://小火箭.xyz  "https://小火箭.xyz ")
+* 当然你也可以选择在线安装：[https://shadowsocks-help.github.io/ios/](https://shadowsocks-help.github.io/ios/)
 
 * 或者来这里也有相关方法教程。[https://freeid.xyz](https://freeid.xyz/ "https://freeid.xyz/")
 

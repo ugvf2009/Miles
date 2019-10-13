@@ -14,13 +14,15 @@
 
 下面链接不一定哪一个能打开，因为不同地址，网络环境不一样，自己都试着点一下吧。
 
-[点我下载](https://ant.antss026.com/aff/7fCv "点我下载")
+[点我下载](https://oct.antss024.com/aff/BvBY)
 
-[点我下载](https://ant.antss027.com/aff/7fCv "点我下载")
+[点我下载](https://oct.antss025.com/aff/BvBY)
 
-[点我下载](https://ant.antss028.com/aff/7fCv "点我下载")
+[点我下载](https://oct.antss026.com/aff/BvBY)
 
-[点我下载](https://ant.antss029.com/aff/7fCv "点我下载")
+[点我下载](https://oct.antss027.com/aff/BvBY)
+
+[点我下载](https://oct.antss028.com/aff/BvBY)
 
 ------------
 

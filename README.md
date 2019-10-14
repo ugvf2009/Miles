@@ -89,13 +89,12 @@
 
 ：）水果机需要一个美区的ID,国区由于历害国原因，下架了， 当然细心的二爷已经给你准备好了。 
 
-| 10/6更新 yezetec001@outlook.com | 201gongzhonghao:yezeTEC 【已购应用: shadowsocket】           |
-| :------------------------------ | :----------------------------------------------------------- |
-| 10/6更新 zouchao0219@gmail.com  | Aa00221199 【已购应用: shadowsocket、Quantumlt，nplayer）    |
-| 10/6更新 yezetec003@gmail.com   | 002gongzhonghao:yezeTEC 【已购应用: Quantumlt】）            |
-| 10/2更新 79234457@qq.com        | Aa00221188 【已购应用: shadowsocket】                        |
-| 9/20更新 smgyangfan02@163.com   | 15gongzhonghao:SMGfuli 【已购应用: shadowsocket、Quantumlt】 |
-| 9/20更新 mm-gzs@qq.com          | 46Gongzhonghaokzddck                                         |
+| 10/13更新 账号：qimufx_usa@163.com    | qimufxUSA1 【已购应用: shadowsocket】                        |
+| :------------------------------------ | :----------------------------------------------------------- |
+| 10/12更新 账号：kobelbj1412@gmail.com | IOSfuli77 【已购应用:Quantumlt X 、Quantumlt、 shadowsocket】 |
+| 10/11更新 smgyangfan15@163.com        | 15gongzhonghao:SMGfuli 【已购应用:Quantumlt X 、Quantumlt、 shadowsocket】 |
+| 10/11更新 smgyangfan02@163.com        | 15gongzhonghao:SMGfuli 【已购应用:Quantumlt X 、Quantumlt、 shadowsocket】 |
+| 9/20更新 mm-gzs@qq.com                | 46Gongzhonghaokzddck 【已购应用: shadowsocket】              |
 
 也可以来这个网站来找账号。[https://wohaobang.cn/](https://wohaobang.cn)
 

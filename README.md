@@ -5,7 +5,7 @@
 * 本页面部分语言可能有背于社会主义科学价值观，不喜匆视即可。
 * 工具仅限于科学上网，学术研究等，请遵守相关法律法规，不做违背党和国家的事情。由此产生的后果，由使用者自己承担。
 * （上面是屁话）你干啥我也不知道，也管不着。
-*  如果害怕账号不安全，请自己买vps搭梯子。
+*  如果害怕账号不安全，请自己买vps搭梯子,1个月10多块钱。[可以点我去购买](https://app.cloudcone.com/?ref=2616)。
 
 ------------
 
@@ -14,15 +14,15 @@
 
 下面链接不一定哪一个能打开，因为不同地址，网络环境不一样，自己都试着点一下吧。
 
-[点我下载](https://oct.antss024.com/aff/BvBY)
+[点我下载](https://oct.antss024.com/aff/hgS8)
 
-[点我下载](https://oct.antss025.com/aff/BvBY)
+[点我下载](https://oct.antss025.com/aff/hgS8)
 
-[点我下载](https://oct.antss026.com/aff/BvBY)
+[点我下载](https://oct.antss026.com/aff/hgS8)
 
-[点我下载](https://oct.antss027.com/aff/BvBY)
+[点我下载](https://oct.antss027.com/aff/hgS8)
 
-[点我下载](https://oct.antss028.com/aff/BvBY)
+[点我下载](https://oct.antss028.com/aff/hgS8)
 
 ------------
 

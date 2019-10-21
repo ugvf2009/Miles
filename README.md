@@ -12,17 +12,13 @@
 二爷给大家推荐一款，安卓,苹果,Mac,Windows 好用的加速器 刷INS、访推特，完美支持高清1080P视频，无任何流量限制,真正免费的加速器.
 需要邀请身边的小伙伴即可无限流量哦，这个可以做**为备用**，因为二爷维护的项目也很好用
 
-下面链接不一定哪一个能打开，因为不同地址，网络环境不一样，自己都试着点一下吧。
+下面链接不一定哪一个能打开，因为不同省份运营商，网络环境不一样，自己都试着点一下吧。
 
-[点我下载](https://oct.antss024.com/aff/hgS8)
+[点我下载](https://oct.antss000.com/aff/hgS8)
 
 [点我下载](https://oct.antss025.com/aff/hgS8)
 
-[点我下载](https://oct.antss026.com/aff/hgS8)
 
-[点我下载](https://oct.antss027.com/aff/hgS8)
-
-[点我下载](https://oct.antss028.com/aff/hgS8)
 
 ------------
 

@@ -31,7 +31,7 @@
 
 * 网站: [https://www.5414.ml](https://www.5414.ml)
 
-* 永久网址:[https://github.com/ugvf2009/Miles](https://github.com/ugvf2009/Miles)
+* 永久网址:[https://github.com/ugvf2009/Miles/blob/master/README.md](https://github.com/ugvf2009/Miles/blob/master/README.md)
 
 
 你二大爷2018年12月8日 于匪区

@@ -15,11 +15,15 @@
 
 下面链接不一定哪一个能打开，因为不同省份运营商，网络环境不一样，自己都试着点一下吧。
 
-[点我下载](https://oct.antss000.com/aff/hgS8)
 
-[点我下载](https://oct.antss025.com/aff/hgS8)
+[点我下载](https://oct.antss000.com/aff/w5M2)
 
-[点我下载](https://oct.antss031.com/aff/hgS8)
+[点我下载](https://oct.antss025.com/aff/w5M2)
+
+[点我下载](https://oct.antss031.com/aff/w5M2)
+
+[点我下载](https://oct.antss037.com/aff/w5M2)
+
 
 ------------
 
@@ -28,6 +32,13 @@
 *  **如果发现分享的链接失效，Windows系统请按Ctrl+R 刷新本页面**
 *  **由于二爷精力和工作原因，手里可用翻墙账号有限，如果你有多余的V2ray或者Shadowsocks账号，欢迎把配置文本内容发送至二爷邮箱：[minzhuziyou@protonmail.com](minzhuziyou@protonmail.com "minzhuziyou@protonmail.com")**
 **让更多的人看看外面的世界**
+
+
+* 别人想翻墙，扫下面这个二维码。
+
+![url.png](https://raw.githubusercontent.com/ugvf2009/Miles/master/url.png)
+
+
 
 * 网站: [https://www.5414.ml](https://www.5414.ml)
 

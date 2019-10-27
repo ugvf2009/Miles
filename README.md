@@ -97,12 +97,13 @@
 
 ：）水果机需要一个美区的ID,国区由于历害国原因，下架了， 当然细心的二爷已经给你准备好了。 
 
-| 10/15更新 账号 hongkong0759@hotmail.com | Hk556677 【已购应用: shadowsocket】                          |
-| :-------------------------------------- | :----------------------------------------------------------- |
-| 10/13更新 账号：qimufx_usa@163.com      | qimufxUSA1 【已购应用: shadowsocket】                        |
-| 10/12更新 账号：kobelbj1412@gmail.com   | IOSfuli77 【已购应用:Quantumlt X 、Quantumlt、 shadowsocket】 |
-| 10/11更新 smgyangfan15@163.com          | 15gongzhonghao:SMGfuli 【已购应用:Quantumlt X 、Quantumlt、 shadowsocket】 |
-| 10/11更新 smgyangfan02@163.com          | 15gongzhonghao:SMGfuli 【已购应用:Quantumlt X 、Quantumlt、 shadowsocket】 |
+| 账 号                                   |  密 码                                                      |
+|                                         |                                                              |
+| 10/23更新 账号 hongkong0759@hotmail.com | Hk556677 【已购应用: shadowsocket】                          |
+| 10/23更新 账号：qimufx_usa@163.com      | qimufxUSA1 【已购应用: shadowsocket】                        |
+| 10/23更新 账号：kobelbj1412@gmail.com   | IOSfuli77 【已购应用:Quantumlt X 、Quantumlt、 shadowsocket】 |
+| 10/26更新 smgyangfan15@163.com          | 08gongzhonghao:SMGfuli 【已购应用:Quantumlt X 、Quantumlt、 shadowsocket】 |
+| 10/26更新 smgyangfan02@163.com          | 15gongzhonghao:SMGfuli 【已购应用:Quantumlt X 、Quantumlt、 shadowsocket】 |
 | 9/20更新 mm-gzs@qq.com                  | 46Gongzhonghaokzddck 【已购应用: shadowsocket】              |
 
 也可以来这个网站来找账号。[https://wohaobang.cn/](https://wohaobang.cn)

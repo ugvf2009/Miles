@@ -16,13 +16,13 @@
 下面链接不一定哪一个能打开，因为不同省份运营商，网络环境不一样，自己都试着点一下吧。
 
 
-[点我下载](https://oct.antss000.com/aff/w5M2)
+[点我下载](https://oct.antss000.com/aff/BUGm)
 
-[点我下载](https://oct.antss025.com/aff/w5M2)
+[点我下载](https://oct.antss025.com/aff/BUGm)
 
-[点我下载](https://oct.antss031.com/aff/w5M2)
+[点我下载](https://oct.antss031.com/aff/BUGm)
 
-[点我下载](https://oct.antss037.com/aff/w5M2)
+[点我下载](https://oct.antss037.com/aff/BUGm)
 
 
 ------------

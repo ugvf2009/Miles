@@ -55,7 +55,7 @@
 
  官网：[https://v2ray.com](https://v2ray.com)（需翻墙）
 
-[点我下载](https://github.com/ugvf2009/Miles/raw/master/v2rayN-Core.7z)
+[点我下载](https://github.com/ugvf2009/Miles/raw/master/v2rayN-Core.zip)
 
 解压后双击文件夹里 V2rayN.exe 即可使用（常规设置二爷帮你弄好了）。
 如果发现连接不上Google。

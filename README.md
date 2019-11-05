@@ -15,14 +15,17 @@
 
 下面链接不一定哪一个能打开，因为不同省份运营商，网络环境不一样，自己都试着点一下吧。
 
+[点我下载](https://n.antss039.xyz/aff/BUGm)
 
-[点我下载](https://oct.antss000.com/aff/BUGm)
+[点我下载](https://n.antss040.xyz/aff/BUGm)
 
-[点我下载](https://oct.antss025.com/aff/BUGm)
+[点我下载](https://n.antss039.xyz/aff/BUGm)
 
-[点我下载](https://oct.antss031.com/aff/BUGm)
+[点我下载](https://n.antss041.xyz/aff/BUGm)
 
-[点我下载](https://oct.antss037.com/aff/BUGm)
+[点我下载](https://n.antss042.xyz/aff/BUGm)
+
+[点我下载](https://n.antss043.xyz/aff/BUGm)
 
 
 ------------
@@ -36,7 +39,7 @@
 
 * 别人想翻墙，扫下面这个二维码。
 
-![url.png](https://raw.githubusercontent.com/ugvf2009/Miles/master/url.png)
+![url.png](https://i.loli.net/2019/11/05/VcNaIKUyJ7twsSf.png)
 
 
 

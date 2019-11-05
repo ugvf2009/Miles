@@ -102,12 +102,13 @@
 
 | 账号                                                         | 密码                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [10/23更新 账号 hongkong0759@hotmail.com](mailto:hongkong0759@hotmail.com) | Hk556677 【已购应用: shadowsocket】                          |
-| [10/23更新 账号：qimufx_usa@163.com](mailto:qimufx_usa@163.com) | qimufxUSA1 【已购应用:  shadowsocket】                       |
-| [10/23更新 账号：kobelbj1412@gmail.com](mailto:kobelbj1412@gmail.com) | IOSfuli77 【已购应用:Quantumlt X  、Quantumlt、 shadowsocket】 |
-| [10/26更新 smgyangfan15@163.com](mailto:smgyangfan15@163.com) | 08gongzhonghao:SMGfuli  【已购应用:Quantumlt X 、Quantumlt、 shadowsocket】 |
-| [10/26更新 smgyangfan02@163.com](mailto:smgyangfan02@163.com) | 15gongzhonghao:SMGfuli  【已购应用:Quantumlt X 、Quantumlt、 shadowsocket】 |
-| [9/20更新 mm-gzs@qq.com](mailto:mm-gzs@qq.com)               | 46Gongzhonghaokzddck 【已购应用:  shadowsocket】             |
+| 10/23更新 账号 hongkong0759@hotmail.com | Hk556677 【已购应用: shadowsocket】                          |
+| :-------------------------------------- | :----------------------------------------------------------- |
+| 10/23更新 账号：qimufx_usa@163.com      | qimufxUSA1 【已购应用: shadowsocket】                        |
+| 11/4更新 账号：kobelbj1412@gmail.com    | IOSfuli77 【已购应用:Quantumlt X 、Quantumlt、 shadowsocket】 |
+| 11/4更新 smgyangfan15@163.com           | 08gongzhonghao:SMGfuli 【已购应用:Quantumlt X 、Quantumlt、 shadowsocket】 |
+| 11/4更新 smgyangfan02@163.com           | 16gongzhonghao:SMGfuli 【已购应用:Quantumlt X 、Quantumlt、 shadowsocket】 |
+| 9/20更新 mm-gzs@qq.com                  | 46Gongzhonghaokzddck 【已购应用: shadowsocket】              |
 
 
 

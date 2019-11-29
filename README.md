@@ -35,6 +35,7 @@
 
 
 * 网站: [https://www.5414.ml](https://www.5414.ml)
+* 新域名正式启用: [https://www.5414.best ](https://www.5414.best)
 
 * 永久网址:[https://github.com/ugvf2009/Miles/blob/master/README.md](https://github.com/ugvf2009/Miles/blob/master/README.md)
 

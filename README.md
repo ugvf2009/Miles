@@ -33,8 +33,6 @@
 ![url.png](https://i.loli.net/2019/11/05/VcNaIKUyJ7twsSf.png)
 
 
-
-* 网站: [https://www.5414.ml](https://www.5414.ml)
 * 新域名正式启用: [https://www.5414.best ](https://www.5414.best)
 
 * 永久网址:[https://github.com/ugvf2009/Miles/blob/master/README.md](https://github.com/ugvf2009/Miles/blob/master/README.md)
@@ -146,7 +144,7 @@
 
 ### [点我下载ClashX](https://github.com/yichengchen/clashX/releases/download/1.10.9/ClashX.dmg)
 
-### [点我下载V2RayU](https://github.com/yanue/V2rayU/releases/download/1.4.1/V2rayU.dmg)
+### [点我下载V2RayU](https://github.com/yanue/V2rayU/releases/download/1.5.0/V2rayU.dmg)
 
 
 

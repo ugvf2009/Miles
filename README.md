@@ -15,9 +15,10 @@
 
 下面链接不一定哪一个能打开，因为不同省份运营商，网络环境不一样，自己都试着点一下吧。
 
-| [下载1](https://antss.orxs.me/aff/w5M2)     | [下载2](https://n.antss040.xyz/aff/w5M2) |
+| [下载1](https://d.orxs.me/aff/w5M2)     | [下载2](https://n.antss040.xyz/aff/w5M2) |
 | [下载3](https://n.antss041.xyz/aff/w5M2)    | [下载4](https://n.antss042.xyz/aff/w5M2) |
 | [下载5](https://n.antss043.xyz/aff/w5M2)    | [下载6](https://n.antss045.xyz/aff/w5M2) |
+| [下载7](https://n.antss046.xyz/aff/w5M2)    | [下载8](https://n.antss047.xyz/aff/w5M2) |
 
 ------------
 

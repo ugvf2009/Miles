@@ -15,9 +15,9 @@
 
 下面链接不一定哪一个能打开，因为不同省份运营商，网络环境不一样，自己都试着点一下吧。
 
-| [下载1](https://d.bobo-av.com/aff/M98T)     |  [下载2](https://d.antss047.xyz/aff/M9xv)|
+| [下载1](https://n.firemusic.me/aff/M98T)     |  [下载2](https://ant.laihuluwa.com/aff/M9xv)|
 
-| [下载3](https://d.gdian.me/aff/w5M2)     |  [下载4](https://d.antss048.xyz/aff/w5M2)|
+| [下载3](https://n.firemusic.me/aff/Nemn)     |  [下载4](https://n.firemusic.me/aff/w5M2)|
 
 ---------------------------------------------------------------------------------------------------------------------
 

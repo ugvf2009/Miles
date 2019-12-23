@@ -17,7 +17,7 @@
 
 | [下载1](https://n.firemusic.me/aff/M98T)     |  [下载2](https://ant.laihuluwa.com/aff/M9xv)|
 
-| [下载3](https://n.firemusic.me/aff/Nemn)     |  [下载4](https://n.firemusic.me/aff/w5M2)|
+| [下载3](https://ant.lanshuapi.com/aff/Nemn)     |  [下载4](https://n.firemusic.me/aff/MExE)|
 
 ---------------------------------------------------------------------------------------------------------------------
 

@@ -48,14 +48,15 @@
 
  官网：[https://v2ray.com](https://v2ray.com)（需翻墙）
  
-[点我下载](https://github.com/ugvf2009/Miles/raw/master/v2rayN-Core.zip)
-上面地址下载不了，点下面的下载。
+
 
 [点我下载](http://39.105.118.158:8083/v2/windows/v2rayN-v2.53.zip)
 
 
+解压后双击文件夹里 V2rayN.exe 即可使用，在订阅设置里添加订阅:https://jiang.netlify.com 
 
-解压后双击文件夹里 V2rayN.exe 即可使用（常规设置二爷帮你弄好了）。
+然后点击更新订阅。即可收到二爷维护的节点了。
+
 如果发现连接不上Google。
 按此方法操作：
 

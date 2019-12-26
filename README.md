@@ -15,9 +15,9 @@
 
 下面链接不一定哪一个能打开，因为不同省份运营商，网络环境不一样，自己都试着点一下吧。
 
-| [下载1](https://n.firemusic.me/aff/M98T)     |  [下载2](https://ant.laihuluwa.com/aff/M9xv)|
+| [下载1](https://ant.seseshow.com/aff/M98T)     |  [下载2](https://ant.lausera.com/aff/M9xv)|
 
-| [下载3](https://ant.lanshuapi.com/aff/Nemn)     |  [下载4](https://n.firemusic.me/aff/MExE)|
+| [下载3](https://ant.seseshow.com/aff/Nemn)     |  [下载4](https://ant.lausera.com/aff/MExE)|
 
 ---------------------------------------------------------------------------------------------------------------------
 

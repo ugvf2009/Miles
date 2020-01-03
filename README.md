@@ -21,9 +21,9 @@
 
 下面链接不一定哪一个能打开，因为不同省份运营商，网络环境不一样，自己都试着点一下吧。
 
-| [下载1](https://my.laihuluwa.com/aff/M98T)     |  [下载2](https://my.laihuluwa.com/aff/M9xv)|
+| [下载1](https://my.laihuluwa.com/aff/PydC)     |  [下载2](https://my.laihuluwa.com/aff/PydC)|
 
-| [下载3](https://ant.seseshow.com/aff/Nemn)     |  [下载4](https://ant.seseshow.com/aff/MExE)|
+| [下载3](https://ant.seseshow.com/aff/PydC)     |  [下载4](https://ant.seseshow.com/aff/PydC)|
 
 ---------------------------------------------------------------------------------------------------------------------
 

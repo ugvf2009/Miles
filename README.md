@@ -21,7 +21,7 @@
 
 下面链接不一定哪一个能打开，因为不同省份运营商，网络环境不一样，自己都试着点一下吧。
 
-| [下载1](https://my.laihuluwa.com/aff/PydC)     |  [下载2](https://my.laihuluwa.com/aff/PydC)|
+| [下载1](https://my.laihuluwa.com/aff/PydC)     |  [下载2](https://my.lanshuapi.com/aff/PydC)|
 
 | [下载3](https://ant.seseshow.com/aff/PydC)     |  [下载4](https://ant.seseshow.com/aff/PydC)|
 
@@ -157,9 +157,8 @@
 ## 4、Mac平台 
 
 
-### [点我下载ClashX](https://github.com/yichengchen/clashX/releases/download/1.10.9/ClashX.dmg)
 
-### [点我下载V2RayU](https://github.com/yanue/V2rayU/releases/download/1.5.0/V2rayU.dmg)
+### [点我下载V2RayU](https://github.com/yanue/V2rayU/releases/download/1.5.1/V2rayU.dmg)
 
 
 

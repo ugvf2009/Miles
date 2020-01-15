@@ -23,7 +23,7 @@
 
 | [下载1](https://my.laihuluwa.com/aff/PydC)     |  [下载2](https://my.lanshuapi.com/aff/PydC)|
 
-| [下载3](https://ant.seseshow.com/aff/PydC)     |  [下载4](https://ant.seseshow.com/aff/PydC)|
+| [下载3](https://my.lausera.com/aff/PydC)     |  [下载4](https://my.lausera.com/aff/PydC)|
 
 ---------------------------------------------------------------------------------------------------------------------
 

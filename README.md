@@ -157,7 +157,10 @@
 * 一般选SS协议或者TCP协议的即可，目前Shadowrocket对KCP协议不支持。
   注：这个软件是付费软件，2.99$哦，请珍惜，对于不会把Appid转区或者没有美区账号的人，这已经是一个很高的门槛了。
 
-* 当然你也可以选择在线安装：[https://shadowsocks-help.github.io/ios/](https://shadowsocks-help.github.io/ios/)
+* 在线安装：[https://shadowsocks-help.github.io/ios/](https://shadowsocks-help.github.io/ios/)
+
+* 在线安装2:[https://www.douyin.re/shadowrocket/](https://www.douyin.re/shadowrocket/)
+
 
 * 或者来这里也有相关方法教程。[https://freeid.xyz](https://freeid.xyz/ "https://freeid.xyz/")
 

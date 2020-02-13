@@ -5,23 +5,21 @@
 
 * 建立本站初衷，一直有人问我怎么翻墙，本人比较懒，就建立了本站，教程完全是按照对翻墙不懂的小白写的，工具基本上都是打开即用的。如果你们因为二大爷的翻墙教程，能够科学上网，拯救智商受益了。本人将由衷欣慰。使用二爷软件时，请卸载各种“360爱国卫士”，因为它会监控你，不喜欢我的风格，请直接点右上角关闭。
 * 本页面部分语言可能有背于社会主义科学价值观，不喜匆视即可。
-* 工具仅限于科学上网，学术研究等，请遵守相关法律法规，不做违背党和国家的事情。由此产生的后果，由使用者自己承担。
+* 工具仅限于科学上网，学术研究等，请遵守相关法律法规，不做违背党和国家的事情。由此产生的后果，由使用者自己承担，其实我也不知道你干啥，总之，干就完了！！！
 *  https://5414.best 域名已经被墙，如果你有闲置免费域名，请用海外邮箱联系二爷。
 
 *  mail to: minzhuziyou@protonmail.com
 
 
 * 当然，对于安全性要求高的朋友，二爷推荐自己购买vps，自己搭建梯子。
-## [点我购买vps](https://app.cloudcone.com/?ref=2616)
-
-
+## [点我购买VPS](https://app.cloudcone.com/?ref=2616)
 
 
 
 ----------------------------------------------------------------------------------------------------------------
 
 二爷给大家推荐一款，安卓,苹果,Mac,Windows 好用的加速器 刷INS、访推特，完美支持高清1080P视频，无任何流量限制,真正免费的加速器.
-需要邀请身边的小伙伴即可无限流量哦，这个可以做**为备用**，因为二爷维护的项目也很好用
+需要邀请身边的小伙伴即可无限流量哦，这个可以做**为备用**，因为二爷维护的项目也很好用,会根据实际情况更新v2ray翻墙节点。
 
 下面链接不一定哪一个能打开，因为不同省份运营商，网络环境不一样，自己都试着点一下吧。
 
@@ -33,7 +31,6 @@
 
 
 
-*  **如果发现分享的链接失效，Windows系统请按Ctrl+R 刷新本页面**
 *  **由于二爷精力和工作原因，手里可用翻墙账号有限，如果你有多余的V2ray或者Shadowsocks账号，欢迎把配置文本内容发送至二爷邮箱：[minzhuziyou@protonmail.com](minzhuziyou@protonmail.com "minzhuziyou@protonmail.com")**
 **让更多的人看看外面的世界**
 
@@ -45,9 +42,9 @@
 ![url.png](https://i.loli.net/2019/11/05/VcNaIKUyJ7twsSf.png)
 
 
-* 此域名已经被墙: [https://www.5414.best](https://www.5414.best)
+* 此域名已经被墙: [https://www.5414.best](https://www.5414.best) （需要翻墙访问）
 
-*  不过二爷又整了一个新域名 [https://likeworld.ml](https://likeworld.ml)
+*  不过二爷又整了一个新域名 [https://likeworld.ml](https://likeworld.ml) （尚未被墙，如果被X，我们再换）
 
 * 永久网址:[https://github.com/ugvf2009/Miles/blob/master/README.md](https://github.com/ugvf2009/Miles/blob/master/README.md)
 
@@ -61,7 +58,7 @@
 ### v2rayN
 
  官网：[https://v2ray.com](https://v2ray.com)（需翻墙）
- 
+
 
 
 [点我下载](http://39.105.118.158:8083/v2/windows/v2rayN-v2.53.zip)
@@ -110,24 +107,21 @@
 
 ：）水果机需要一个美区的ID,国区由于历害国原因，下架了， 当然细心的二爷已经给你准备好了。 
 
-| 账号                                                         | 密码                                                         |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 10/23更新 账号 hongkong0759@hotmail.com | Hk556677 【已购应用: shadowsocket】                          |
-| :-------------------------------------- | :----------------------------------------------------------- |
-| 10/23更新 账号：qimufx_usa@163.com      | qimufxUSA1 【已购应用: shadowsocket】                        |
-| 11/4更新 账号：kobelbj1412@gmail.com    | IOSfuli77 【已购应用:Quantumlt X 、Quantumlt、 shadowsocket】 |
-| 11/4更新 smgyangfan15@163.com           | 08gongzhonghao:SMGfuli 【已购应用:Quantumlt X 、Quantumlt、 shadowsocket】 |
-| 11/4更新 smgyangfan02@163.com           | 16gongzhonghao:SMGfuli 【已购应用:Quantumlt X 、Quantumlt、 shadowsocket】 |
-| 9/20更新 mm-gzs@qq.com                  | 46Gongzhonghaokzddck 【已购应用: shadowsocket】              |
+- 免费分享账号1：[yissrwww@gmail.com](mailto:yissrwww@gmail.com) 密码：Gitv2net
 
+- 免费分享账号2：[4ssgit@gmail.com](mailto:4ssgit@gmail.com) 密码：Gitv2net
 
+- 免费分享账号3：[v2sxcom@gmail.com](mailto:v2sxcom@gmail.com) 密码：Gitv2net
+
+  
 
 也可以来这个网站来找账号。[https://wohaobang.cn/](https://wohaobang.cn)
 
-
 也可以来这里：[https://shadowsocks-help.github.io/Shadowsocks/appleid.html](https://shadowsocks-help.github.io/Shadowsocks/appleid.html)
 
--注意密码的大小写。
+这里也有： https://github.com/v2net/Apple 
+
+使用账号时需要注意的：
 
 
 - 千万不要在 iCloud 中登陆 Apple ID（请在心里说3遍或者5遍）

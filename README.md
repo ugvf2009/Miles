@@ -23,9 +23,9 @@
 
 下面链接不一定哪一个能打开，因为不同省份运营商，网络环境不一样，自己都试着点一下吧。
 
-| [下载1](https://mayi.laihuluwa.com/aff/XPEj)     |  [下载2](https://mayi.lanshuapi.com/aff/XPEj)|
+| [下载1](https://mayi.laihuluwa.com/aff/XXqu)     |  [下载2](https://mayi.lanshuapi.com/aff/XXqu)|
 
-| [下载3](https://mayi.lausera.com/aff/XPEj)     |  [下载4](https://mayi.lausera.com/aff/XPEj)|
+| [下载3](https://mayi.lausera.com/aff/XXqu)     |  [下载4](https://mayi.lausera.com/aff/XXqu)|
 
 ---------------------------------------------------------------------------------------------------------------------
 

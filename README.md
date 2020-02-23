@@ -23,9 +23,9 @@
 
 下面链接不一定哪一个能打开，因为不同省份运营商，网络环境不一样，自己都试着点一下吧。
 
-| [下载1](https://mayi.laihuluwa.com/aff/YwfU)     |  [下载2](https://mayi.lanshuapi.com/aff/YwfU)|
+| [下载1](https://mayi.laihuluwa.com/aff/w5M2)     |  [下载2](https://mayi.lanshuapi.com/aff/w5M2)|
 
-| [下载3](https://mayi.lausera.com/aff/YwfU)     |  [下载4](https://mayi.lausera.com/aff/YwfU)|
+| [下载3](https://mayi.lausera.com/aff/w5M2)     |  [下载4](https://mayi.lausera.com/aff/w5M2)|
 
 ---------------------------------------------------------------------------------------------------------------------
 
@@ -107,7 +107,7 @@
 
 ：）水果机需要一个美区的ID,国区由于历害国原因，下架了， 当然细心的二爷已经给你准备好了。 
 
-- 免费分享账号1：[yissrwww@gmail.com](mailto:yissrwww@gmail.com) 密码：Gitv2net
+- 免费分享账号1：[mayiios@163.com](mailto:mayiios@163.com) 密码：Mayiios123
 
 - 免费分享账号2：[4ssgit@gmail.com](mailto:4ssgit@gmail.com) 密码：Gitv2net
 

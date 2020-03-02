@@ -161,7 +161,7 @@
 
 
 
-### [点我下载V2RayU](https://github.com/yanue/V2rayU/releases/download/1.5.1/V2rayU.dmg)
+### [点我下载V2RayU](https://github.com/yanue/V2rayU/releases/download/2.0.0/V2rayU.dmg)
 
 
 

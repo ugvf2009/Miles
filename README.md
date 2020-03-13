@@ -15,7 +15,7 @@
 
 ## [点我购买VPS(便宜一点)](https://app.cloudcone.com/?ref=2616)
 
-## [或者点我-稍贵一点](https://bandwagonhost.com/aff.php?aff=21498)
+## [或者点我-稍贵一点，以稳著称。](https://bandwagonhost.com/aff.php?aff=21498)
 
 
 

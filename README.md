@@ -49,7 +49,7 @@
 
 *  不过二爷又整了一个新域名 [https://likeworld.ml](https://likeworld.ml) （尚未被墙，如果被X，我们再换）
 
-*  假如你啥也不懂，就用这个网址看google,YouTube吧。[https://zxfqhub.om:8443](https://zxfqhub.om:8443) 
+*  假如你啥也不懂，就用这个网址看google,YouTube吧。[https://zxfqhub.om](https://zxfqhub.om) 
 
 * 永久网址:[https://github.com/ugvf2009/Miles/blob/master/README.md](https://github.com/ugvf2009/Miles/blob/master/README.md)
 

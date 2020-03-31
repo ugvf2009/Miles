@@ -90,6 +90,10 @@
 
 下载地址：[点我下载](http://39.105.118.158:8083/v2/android/v2rayNG-v1.1.12.apk) 
 
+
+
+[点我下载新版本](https://tlanyan.me/download.php?filename=/v2/android/v2rayNG-v1.2.4.apk)
+
 **使用方法：**
 
 打开软件点左上角，选择“订阅设置”

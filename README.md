@@ -124,6 +124,8 @@
 
 - 免费分享账号3：[v2sxcom@gmail.com](mailto:v2sxcom@gmail.com) 密码：Gitv2net
 
+不能用的话，[点这里找一下](https://www.hijk.pw/external-apple-id-summary/)
+
   
 
 也可以来这个网站来找账号。[https://wohaobang.cn/](https://wohaobang.cn)

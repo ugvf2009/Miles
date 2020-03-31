@@ -67,6 +67,8 @@
 
 
 [点我下载](http://39.105.118.158:8083/v2/windows/v2rayN-v2.53.zip)
+或者
+[点我下载下载新版本](https://tlanyan.me/download.php?filename=/v2/windows/v2rayN-v3.12.zip)
 
 
 解压后双击文件夹里 V2rayN.exe 即可使用，在订阅设置里添加订阅:https://jiang.netlify.com 

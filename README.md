@@ -88,11 +88,13 @@
 ### v2ray 
 
 
-下载地址：[点我下载](http://39.105.118.158:8083/v2/android/v2rayNG-v1.1.12.apk) 
-
-
 
 [点我下载新版本](https://tlanyan.me/download.php?filename=/v2/android/v2rayNG-v1.2.4.apk)
+
+
+[V2RAY-懒人版本](http://45.140.168.13/v2ray.vpn-universal-release.apk)
+
+* 这个下载后，直接更新订阅，选择一个服务器就可以用了。
 
 **使用方法：**
 

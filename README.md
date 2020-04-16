@@ -102,7 +102,7 @@
 
 依次点“+”号；备注随便写。
 
-在地址（URL）那填写:[https://jiang.netlify.com](https://jiang.netlify.com)
+在地址（URL）那填写:[https://jiang.netlify.app](https://jiang.netlify.app)
 
 然后点右上角的小对号保存。
 
@@ -153,7 +153,7 @@
 
 * 下载Shadowrocket后， 点右上角的 + 号，
 * 选择add subscribe 
-* 添加二爷的订阅地址：[https://jiang.netlify.com ](https://jiang.netlify.com)
+* 添加二爷的订阅地址：[https://jiang.netlify.app](https://jiang.netlify.app)
 * 图文教程：[点我查看图文教程](https://v2sx.github.io/Help/iOS.html)
 
 **注意http后面是有“s”的**

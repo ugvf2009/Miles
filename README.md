@@ -8,7 +8,7 @@
 * 工具仅限于科学上网，学术研究等，请遵守相关法律法规，不做违背党和国家的事情。由此产生的后果，由使用者自己承担，其实我也不知道你干啥，总之，干就完了！！！
 
 
-*  mail to: minzhuziyou@protonmail.com
+*  如果你有账号乐于助人，欢迎联系二爷：[minzhuziyou@protonmail.com](minzhuziyou@protonmail.com)
 
 
 * 当然，对于安全性要求高的朋友，二爷推荐自己购买vps，自己搭建梯子。
@@ -176,7 +176,7 @@
 
 
 
-### [点我下载V2RayU](https://github.com/yanue/V2rayU/releases/download/2.0.0/V2rayU.dmg)
+### [点我下载V2RayU](https://github.com/yanue/V2rayU/releases/download/2.1.0/V2rayU.dmg)
 
 
 

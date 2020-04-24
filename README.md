@@ -136,6 +136,8 @@
 
 这里也有： https://github.com/v2net/Apple 
 
+还有这里：[https://appledi.com/](https://appledi.com/)
+
 使用账号时需要注意的：
 
 

@@ -93,9 +93,6 @@
 [点我下载新版本](https://tlanyan.me/download.php?filename=/v2/android/v2rayNG-v1.2.6.apk)
 
 
-[V2RAY-懒人版本](http://45.140.168.13/v2ray.vpn-universal-release.apk)
-
-* 这个下载后，直接更新订阅，选择一个服务器就可以用了。
 
 **使用方法：**
 

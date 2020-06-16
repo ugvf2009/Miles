@@ -90,7 +90,8 @@
 
 
 
-[点我下载新版本](https://tlanyan.me/download.php?filename=/v2/android/v2rayNG-v1.2.6.apk)
+[点我下载](https://netfiles.pw/download.php?filename=/v2/android/v2rayNG-v1.2.10.apk)
+
 
 
 

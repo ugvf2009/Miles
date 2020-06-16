@@ -86,14 +86,17 @@
 
 ## 2、Android平台软件
 
-### v2ray 
+### v2rayNG
 
 
 
 [点我下载](https://netfiles.pw/download.php?filename=/v2/android/v2rayNG-v1.2.10.apk)
 
+### Clash for Android
 
+[Clash download](https://tlanyan.me/download.php?filename=/v2/android/ClashForAndroid-v1.2.15.apk)
 
+** 点配置，找到“从URL导入”，把这个订阅添加进去。 https://suo.yt/gJKokt5
 
 **使用方法：**
 

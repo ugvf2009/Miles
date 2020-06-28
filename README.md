@@ -112,7 +112,10 @@
 
 ### Shadowrocket(俗称“小火箭”)
 
-：）水果机需要一个美区的ID,国区由于历害国原因，下架了， 当然细心的二爷已经给你准备好了。 
+：）水果机需要一个美区的ID,国区由于历害国原因，下架了， 当然细心的二爷已经给你准备好了。
+
+小火箭账号：dz9djmqwzz69@163.com
+密码：infomePet123
 
 [点这里找一下](https://www.hijk.pw/external-apple-id-summary/)
 

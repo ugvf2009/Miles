@@ -66,15 +66,12 @@
  官网：[https://v2ray.com](https://v2ray.com)（需翻墙）
 
 
-
-[点我下载](http://39.105.118.158:8083/v2/windows/v2rayN-v2.53.zip)
-或者
-[点我下载下载新版本](https://tlanyan.me/download.php?filename=/v2/windows/v2rayN-v3.18.zip)
+[点我下载](https://tlanyan.me/download.php?filename=/v2/windows/v2rayN-v3.19.zip)
 
 
-解压后双击文件夹里 V2rayN.exe 即可使用，在订阅设置里添加订阅:https://jiang.netlify.app 
+解压后双击文件夹里 V2rayN.exe，在订阅设置里添加订阅:https://jiang.netlify.app 点击更新一下订阅，收到节点即可使用。
 
-然后点击更新订阅。即可收到二爷维护的节点了。
+
 
 如果发现连接不上Google。
 图文说明如下：
@@ -90,13 +87,16 @@
 
 [点我下载](https://netfiles.pw/download.php?filename=/v2/android/v2rayNG-v1.2.10.apk)
 
+[或者点我](https://tlanyan.me/download.php?filename=/v2/android/v2rayNG-v1.2.10.apk)
+
 **使用方法：**
 
 打开软件点左上角，选择“订阅设置”
 依次点“+”号；备注随便写。在地址（URL）那填写:[https://jiang.netlify.app](https://jiang.netlify.app)
 然后点右上角的小对号 √ 保存。
 退出来后，点右上角的三个小点，点击》最下面的 更新订阅，就能收到二爷给您准备好的服务器了。
-点右下角的小V，连接，即可连接国际互联网了。此时是全局代理，如想自动代理，请在设置里，更改路由模式为“绕过局域网和大陆”即可，国外的网站经过代理服务器，国内的直连。
+点右下角的小V，连接，即可连接国际互联网了。
+此时是全局代理，如想自动代理，请在设置里，更改路由模式为“绕过局域网和大陆”即可，国外的网站经过代理服务器，国内的直连。
 
 从此上车，随便飞。发现访问不了Google，请及时更新订阅哦！
 
@@ -117,7 +117,7 @@
 小火箭账号：dz9djmqwzz69@163.com
 密码：infomePet123
 
-[点这里找一下](https://www.hijk.pw/external-apple-id-summary/)
+[上面的账号用不了点我](https://www.hijk.pw/external-apple-id-summary/)
 
 也可以来这个网站来找账号。[https://wohaobang.cn/](https://wohaobang.cn)
 
@@ -155,7 +155,7 @@
 
 * 在线安装：[https://shadowsocks-help.github.io/ios/](https://shadowsocks-help.github.io/ios/)
 
-* 在线安装2:[https://www.douyin.re/shadowrocket/](https://www.douyin.re/shadowrocket/)
+
 
 
 

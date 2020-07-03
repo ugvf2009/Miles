@@ -17,7 +17,7 @@
 
 ## [点我购买VPS(便宜一点)](https://app.cloudcone.com/?ref=2616)
 
-## [或者点我-稍贵一点，以稳著称。](https://bandwagonhost.com/aff.php?aff=21498)
+
 
 
 
@@ -50,7 +50,17 @@
 
 *  不过二爷又整了一个新域名 [https://likeworld.ml](https://likeworld.ml) （尚未被墙，如果被X，我们再换）
 
-*  假如你啥也不懂，就用这个网址看google,YouTube吧。[https://zxfqhub.com](https://zxfqhub.com) 
+*  假如你啥也不懂，就用这个网址看google,YouTube吧。[https://zxfqhub.com](https://zxfqhub.com)
+
+### 下面这几个也可以备用
+
+[https://misty-disk-50cc.networkfreedom.workers.dev/](https://misty-disk-50cc.networkfreedom.workers.dev/)
+
+
+[https://green-credit-9e7f.networkfreedom.workers.dev/](https://green-credit-9e7f.networkfreedom.workers.dev/)
+
+
+[https://lucky-mountain-6e91.networkfreedom.workers.dev/](https://lucky-mountain-6e91.networkfreedom.workers.dev/)
 
 * 永久网址:[https://github.com/ugvf2009/Miles/blob/master/README.md](https://github.com/ugvf2009/Miles/blob/master/README.md)
 

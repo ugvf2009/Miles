@@ -52,15 +52,6 @@
 
 *  假如你啥也不懂，就用这个网址看google,YouTube吧。[https://zxfqhub.com](https://zxfqhub.com)
 
-### 下面这几个也可以备用
-
-[https://misty-disk-50cc.networkfreedom.workers.dev/](https://misty-disk-50cc.networkfreedom.workers.dev/)
-
-
-[https://green-credit-9e7f.networkfreedom.workers.dev/](https://green-credit-9e7f.networkfreedom.workers.dev/)
-
-
-[https://lucky-mountain-6e91.networkfreedom.workers.dev/](https://lucky-mountain-6e91.networkfreedom.workers.dev/)
 
 * 永久网址:[https://github.com/ugvf2009/Miles/blob/master/README.md](https://github.com/ugvf2009/Miles/blob/master/README.md)
 

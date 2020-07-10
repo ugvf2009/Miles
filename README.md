@@ -117,6 +117,8 @@
 
 小火箭账号：dz9djmqwzz69@163.com
 密码：infomePet123
+小火箭共享賬戶：keqinhuojian@gmail.com     密碼：1029-/:;()qAz
+
 
 [上面的账号用不了点我](https://www.hijk.pw/external-apple-id-summary/)
 

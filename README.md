@@ -24,12 +24,16 @@
 ----------------------------------------------------------------------------------------------------------------
 
 二爷给大家推荐一款，安卓,苹果,Mac,Windows 好用的加速器 刷INS、访推特，完美支持高清1080P视频，无任何流量限制,真正免费的加速器.
-需要邀请身边的小伙伴即可无限流量哦，这个可以做**为备用**，因为二爷维护的项目也很好用,会根据实际情况更新v2ray翻墙节点。
+需要邀请身边的小伙伴下载才能获得无限流量哦，这个可以做**为备用**，
+为啥推荐它哩，因为它是91旗下的，属于灰色地带的梯子，
+还是比较稳的，基本不用担心跑路，随便推荐几个身边的小伙伴，即可无限流量上网。
+如嫌麻烦，往下看，二爷维护的项目也很好用,会根据实际情况更新v2ray翻墙节点。
 
 下面链接不一定哪一个能打开，因为不同省份运营商，网络环境不一样，自己都试着点一下吧。
 
-| [下载1](https://b.lausera.com/c-1/a-ZnX4)     |  [下载2](https://vv.lanshuapi.com/c-1/a-ZnX4)|
+| [下载地址1](https://b.lausera.com/c-1/a-ZnX4)     |  [下载地址2](https://vv.lanshuapi.com/c-1/a-ZnX4)|
 
+| [下载地址3](https://vv.laihuluwa.com/c-1/a-ZnX4)
 
 ---------------------------------------------------------------------------------------------------------------------
 
@@ -70,7 +74,9 @@
 [点我下载](https://tlanyan.me/download.php?filename=/v2/windows/v2rayN-v3.19.zip)
 
 
-解压后双击文件夹里 V2rayN.exe，在订阅设置里添加订阅:https://jiang.netlify.app 点击更新一下订阅，收到节点即可使用。
+解压后双击文件夹里 V2rayN.exe，在订阅设置里添加订阅:https://jiang.netlify.app 
+
+点击更新一下订阅，收到节点即可使用，如不可以，请点右下角程序图标，点右键，打开http pac的那个代理选项即可。
 
 
 
@@ -86,9 +92,9 @@
 
 ### v2rayNG
 
-[点我下载](https://netfiles.pw/download.php?filename=/v2/android/v2rayNG-v1.2.10.apk)
+[点我下载](https://netfiles.pw/download.php?filename=/v2/android/v2rayNG-v1.2.13.apk)
 
-[或者点我](https://tlanyan.me/download.php?filename=/v2/android/v2rayNG-v1.2.10.apk)
+[或者点我](https://tlanyan.me/download.php?filename=/v2/android/v2rayNG-v1.2.13.apk)
 
 **使用方法：**
 
@@ -107,7 +113,8 @@
 
 [Clash download](https://tlanyan.me/download.php?filename=/v2/android/ClashForAndroid-v1.2.15.apk)
 
-** 点配置，找到“从URL导入”，把这个订阅添加进去。 https://suo.yt/gJKokt5
+** 点配置，找到“从URL导入”，把这个订阅添加进去。 
+https://api.dler.io/sub?target=clash&url=https%3A%2F%2Fjiang.netlify.app&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online.ini
 
 ##  3、IOS平台 
 
@@ -150,8 +157,7 @@
 
 **注意http后面是有“s”的**
 
-* 每次打开软件后，更新一下，就可以收到二爷维护的服务器节点(ios更新方法是，在订阅地址那里，右滑二爷的订阅地址，选择“更新”)。 
-
+* 每次打开软件后，更新一下，就可以收到二爷维护的服务器节点(ios更新方法是，在订阅地址那里，右滑二爷的订阅地址，选择“更新”。 
 
 * 一般选SS协议或者TCP协议的即可，目前Shadowrocket对KCP协议不支持。
   注：这个软件是付费软件，2.99$哦，请珍惜，对于不会把Appid转区或者没有美区账号的人，这已经是一个很高的门槛了。
@@ -159,24 +165,22 @@
 * 在线安装：[https://shadowsocks-help.github.io/ios/](https://shadowsocks-help.github.io/ios/)
 
 
-
-
-
 ## 4、Mac平台 
 
 - V2rayU
 
-### [点我下载V2RayU](https://github.com/yanue/V2rayU/releases/download/2.1.0/V2rayU.dmg)
 
-### [上面下载慢，点我](https://tlanyan.me/download.php?filename=/v2/macos/v2rayU-v2.1.0.dmg)
+### [上面下载慢，点我](https://tlanyan.me/download.php?filename=/v2/macos/v2rayU-v2.2.0.dmg)
 
 - ClashX
 
-### [点我下载ClashX](https://tlanyan.me/download.php?filename=/v2/macos/clashX-v1.20.1.dmg)
+### [点我下载ClashX](https://tlanyan.me/download.php?filename=/v2/macos/clashX-v1.30.0.dmg)
 
 ClashX使用二爷订阅的话，需要把订阅链接转换一下。
 这个地址可以转换。
 [https://gfwsb.114514.best/](https://gfwsb.114514.best/)
+或者这里：
+[https://acl4ssr.netlify.app/](https://acl4ssr.netlify.app/)
 
 使用方法Google吧，很简单的，需要会点儿常用计算机术语（洋文）。
 这里有教程。
@@ -190,6 +194,7 @@ ClashX使用二爷订阅的话，需要把订阅链接转换一下。
 ### [点我学习Linux上翻墙教程](https://github.com/V2Sx/v2rayL)
 
 #### [Qv2ray for Linux](https://tlanyan.me/download.php?filename=/v2/linux/Qv2ray.v2.5.0.linux-x64.AppImage)
+#### [Mellow](https://tlanyan.me/download.php?filename=/v2/linux/Mellow-0.1.17.AppImage)
 
 后记：由于众所周知的原因，西朝鲜的很多民众由于信息封锁，无法访问民主宪政国家的大型网站，很多真相被蒙蔽。 如Google，Twitter，Facebook，Instagram，Telegram，Tumblr等、 每天看CCAV无脑续集，看手撕鬼子神剧，某某傻逼创业日入万元， 火箭抹上了印度神油，又他妈射天去了，武器军队又牛逼了， 辽宁号装满柴油冒起黑烟出去装逼半道没油了，别人又不敢惹了，我们又有核武器了。 今天范冰冰怀孕，明天杨幂堕胎，马云又上讲台出售精神伟哥， 朋友拉微信让你进群，用话术套路你，“为你省钱”拼团领券立减了，让你消费他就从中获利（佣金）了， 某些傻逼又卖头脑风暴了，这是个欺骗的世界，无知的世界， 中国这群傻逼就是被仁、义、礼、智、信这些所谓的儒家思想给洗脑洗成傻逼了， 其实都他妈的是白天正人君子，晚上男盗女娼，都是一堆Loser。 如果哪个明星不生孩子了，CCAV频道都编不出故事啥哄你们开心了。 这是个戏子横行，婊子丛生，骗子臭不要脸的时代。从上到下跪舔的时代。 傻逼的行为不愿你们。你们也是无辜的，毕竟洗脑洗这么多年了。你们的可怜和无知，才需要在心中树立偶像英雄和领袖。 但我真心希望你们能在二爷的指导下，用二爷提供的方法出去感受一下，拥抱一下这个世界的文明。 二爷做为资深爬墙看片爱好者，特此写了本教程。让你从小白秒变小小白。 来吧，访问世界文明，自由，拥抱普世价值！ 从此告别傻逼傲慢无知没有独立思考能力的自己、做一个有点儿思想的自己。人到暮年，告诉自己儿孙，自己活过。
 

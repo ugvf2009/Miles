@@ -50,12 +50,15 @@
 ![url.png](https://i.loli.net/2019/11/05/VcNaIKUyJ7twsSf.png)
 
 
-* 此域名已经被墙: [https://www.5414.best](https://www.5414.best) （需要翻墙访问）
 
-*  不过二爷又整了一个新域名 [https://likeworld.ml](https://likeworld.ml) （尚未被墙，如果被X，我们再换）
 
-*  假如你啥也不懂，就用这个网址看google,YouTube吧。[https://zxfqhub.com](https://zxfqhub.com)
+*  假如你啥也不懂，就用这个网址看google,YouTube吧。
 
+[https://zxfqhub.com](https://zxfqhub.com)
+
+或者这个也可以
+
+[https://www.5414.cf/](https://www.5414.cf/)
 
 * 永久网址:[https://github.com/ugvf2009/Miles/blob/master/README.md](https://github.com/ugvf2009/Miles/blob/master/README.md)
 
@@ -73,6 +76,9 @@
 
 [点我下载](https://tlanyan.me/download.php?filename=/v2/windows/v2rayN-v3.19.zip)
 
+或者在下面的网址下载。
+
+[https://pan.5414.cf/](https://pan.5414.cf/)
 
 解压后双击文件夹里 V2rayN.exe，在订阅设置里添加订阅:https://jiang.netlify.app 
 

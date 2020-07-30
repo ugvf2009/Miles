@@ -184,7 +184,7 @@ https://api.dler.io/sub?target=clash&url=https%3A%2F%2Fjiang.netlify.app&insert=
 
 ClashX使用二爷订阅的话，需要把订阅链接转换一下。
 这个地址可以转换。
-[https://gfwsb.114514.best/](https://gfwsb.114514.best/)
+[https://subcon.py6.pw](https://subcon.py6.pw)
 或者这里：
 [https://acl4ssr.netlify.app/](https://acl4ssr.netlify.app/)
 

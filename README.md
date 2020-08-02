@@ -15,7 +15,7 @@
 
 * 当然，对于安全性要求高的朋友，二爷推荐自己购买vps，自己搭建梯子。
 
-## [点我购买VPS(便宜一点)](https://app.cloudcone.com/?ref=2616)
+## [点我购买VPS(便宜一点)](https://www.vultr.com/?ref=7603366)
 
 
 

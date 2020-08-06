@@ -50,17 +50,10 @@
 ![url.png](https://i.loli.net/2019/11/05/VcNaIKUyJ7twsSf.png)
 
 
+*  假如你啥也不懂，就用这个网址[https://www.5414.cf](https://www.5414.cf) 看google,YouTube吧。
 
 
-*  假如你啥也不懂，就用这个网址看google,YouTube吧。
-
-[https://zxfqhub.com](https://zxfqhub.com)
-
-或者这个也可以
-
-[https://www.5414.cf/](https://www.5414.cf/)
-
-* 永久网址:[https://github.com/ugvf2009/Miles/blob/master/README.md](https://github.com/ugvf2009/Miles/blob/master/README.md)
+* 二爷翻墙永久网址:[https://github.com/ugvf2009/Miles/blob/master/README.md](https://github.com/ugvf2009/Miles/blob/master/README.md)
 
 
 你二大爷2018年12月8日 于匪区
@@ -98,9 +91,9 @@
 
 ### v2rayNG
 
-[点我下载](https://netfiles.pw/download.php?filename=/v2/android/v2rayNG-v1.2.13.apk)
+[点我下载](https://netfiles.pw/download.php?filename=/v2/android/v2rayNG-v1.2.15.apk)
 
-[或者点我](https://tlanyan.me/download.php?filename=/v2/android/v2rayNG-v1.2.13.apk)
+[或者点我](https://tlanyan.me/download.php?filename=/v2/android/v2rayNG-v1.2.15.apk)
 
 **使用方法：**
 
@@ -120,22 +113,17 @@
 [Clash download](https://tlanyan.me/download.php?filename=/v2/android/ClashForAndroid-v1.2.15.apk)
 
 ** 点配置，找到“从URL导入”，把这个订阅添加进去。 
-https://api.dler.io/sub?target=clash&url=https%3A%2F%2Fjiang.netlify.app&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online.ini
+
+https://subcon.py6.pw/sub?target=clash&new_name=true&url=https%3A%2F%2Fjiang.netlify.app&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online.ini
+
 
 ##  3、IOS平台 
 
 ### Shadowrocket(俗称“小火箭”)
 
-：）水果机需要一个美区的ID,国区由于历害国原因，下架了， 当然细心的二爷已经给你准备好了。
+：）水果机需要一个美区的ID才能下载,国区由于厉害国原因，下架了， 当然细心的二爷已经给你准备好了。
 
-小火箭账号：dz9djmqwzz69@163.com
-密码：infomePet123
-小火箭共享賬戶：keqinhuojian@gmail.com     密碼：1029-/:;()qAz
-
-
-[上面的账号用不了点我](https://www.hijk.pw/external-apple-id-summary/)
-
-也可以来这个网站来找账号。[https://wohaobang.cn/](https://wohaobang.cn)
+先这个网站来找账号。[https://wohaobang.cn/](https://wohaobang.cn)
 
 也可以来这里：[https://shadowsocks-help.github.io/Shadowsocks/appleid.html](https://shadowsocks-help.github.io/Shadowsocks/appleid.html)
 
@@ -146,13 +134,14 @@ https://api.dler.io/sub?target=clash&url=https%3A%2F%2Fjiang.netlify.app&insert=
 
 - 千万不要在 iCloud 中登陆 Apple ID（请在心里说3遍或者5遍）
 
-- 在 App Store 登录账号并使用完成后，一定要及时注销退出！
+简要教程：
+进入设置》
+进入账号设置》
+进入“iTunes Store与App Store”（注意，不要点页面最下方的“退出登录”，否则就是登录icloud！》
+在app store账号页面，点击最上面的 Apple ID: xxxx，在出现的弹框中点击“退出登录”》
+退出后返回上一个页面，“iTunes Store与App Store”已经显示为“关”：
 
-一定在app store里登陆，（如果你执意这样，那可能会同步你的小皂片儿、视频啥的，不想成为冠希哥，你还是仔细看二爷的教程，不好好看设备被锁别怨我啊）
-
-- 登陆方法如下:
-
-- 在iphone（&ipad）的设置那里，就能看到。选择app store的那个登陆。 如果已经有登陆账号，退一下，登陆成功后打开Apple Store里搜索Shadowrocket 并下载。
+图文操作教程：[切换apple id下载其它国家和地区的应用教程]https://tlanyan.me/switch-appleid-to-download-apps/）
 
 * * *
 

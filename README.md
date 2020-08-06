@@ -31,9 +31,9 @@
 
 下面链接不一定哪一个能打开，因为不同省份运营商，网络环境不一样，自己都试着点一下吧。
 
-| [下载地址1](https://b.lausera.com/c-1/azyfx)     |  [下载地址2](https://vv.lanshuapi.com/c-1/azyfx)|
+| [下载地址1](https://b.lausera.com/c-1/a-azyfx)     |  [下载地址2](https://vv.lanshuapi.com/c-1/a-azyfx)|
 
-| [下载地址3](https://vv.laihuluwa.com/c-1/azyfx)
+| [下载地址3](https://vv.laihuluwa.com/c-1/a-azyfx)
 
 ---------------------------------------------------------------------------------------------------------------------
 

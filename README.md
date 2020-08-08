@@ -50,7 +50,7 @@
 ![url.png](https://i.loli.net/2019/11/05/VcNaIKUyJ7twsSf.png)
 
 
-*  假如你啥也不懂，就用这个网址[https://www.5414.cf](https://www.5414.cf) 看google,YouTube吧。
+*  假如你啥也不懂，就用这个网址[https://www.5414.gq](https://www.5414.gq) 看google,YouTube吧。
 
 
 * 二爷翻墙永久网址:[https://github.com/ugvf2009/Miles/blob/master/README.md](https://github.com/ugvf2009/Miles/blob/master/README.md)
@@ -71,7 +71,7 @@
 
 或者在下面的网址下载。
 
-[https://pan.5414.cf/](https://pan.5414.cf/)
+[https://pan.5414.gq](https://pan.5414.gq)
 
 解压后双击文件夹里 V2rayN.exe，在订阅设置里添加订阅:https://jiang.netlify.app 
 

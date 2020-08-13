@@ -52,6 +52,8 @@
 
 *  假如你啥也不懂，就用这个网址[https://www.5414.gq](https://www.5414.gq) 看google,YouTube吧。
 
+   或者这个：[https://www.5414.cf](https://www.5414.cf)
+
 
 * 二爷翻墙永久网址:[https://github.com/ugvf2009/Miles/blob/master/README.md](https://github.com/ugvf2009/Miles/blob/master/README.md)
 
@@ -72,6 +74,8 @@
 或者在下面的网址下载。
 
 [https://pan.5414.gq](https://pan.5414.gq)
+
+[https://pan.5414.cf](https://pan.5414.cf)
 
 解压后双击文件夹里 V2rayN.exe，在订阅设置里添加订阅:https://jiang.netlify.app 
 

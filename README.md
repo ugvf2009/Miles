@@ -145,7 +145,7 @@ https://subcon.py6.pw/sub?target=clash&new_name=true&url=https%3A%2F%2Fjiang.net
 在app store账号页面，点击最上面的 Apple ID: xxxx，在出现的弹框中点击“退出登录”》
 退出后返回上一个页面，“iTunes Store与App Store”已经显示为“关”：
 
-图文操作教程：[切换apple id下载其它国家和地区的应用教程]https://tlanyan.me/switch-appleid-to-download-apps/）
+[点我学习切换apple id下载其它国家和地区的应用教程](https://tlanyan.me/switch-appleid-to-download-apps/）
 
 * * *
 

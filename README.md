@@ -17,10 +17,6 @@
 
 ## [点我购买VPS(便宜一点)](https://www.vultr.com/?ref=7603366)
 
-
-
-
-
 ----------------------------------------------------------------------------------------------------------------
 
 二爷给大家推荐一款，安卓,苹果,Mac,Windows 好用的加速器 刷INS、访推特，完美支持高清1080P视频，无任何流量限制,真正免费的加速器.
@@ -50,9 +46,13 @@
 ![url.png](https://i.loli.net/2019/11/05/VcNaIKUyJ7twsSf.png)
 
 
-*  假如你啥也不懂，就用这个网址[https://www.5414.gq](https://www.5414.gq) 看google,YouTube吧。
+*  假如你啥也不懂，看Google和Youtube就用下面网址
 
-   或者这个：[https://www.5414.cf](https://www.5414.cf)
+*  [https://www.5414.gq](https://www.5414.gq) 
+
+   或者这个：
+   
+   [https://www.5414.cf](https://www.5414.cf)
 
 
 * 二爷翻墙永久网址:[https://github.com/ugvf2009/Miles/blob/master/README.md](https://github.com/ugvf2009/Miles/blob/master/README.md)
@@ -71,9 +71,9 @@
 
 [点我下载](https://tlanyan.me/download.php?filename=/v2/windows/v2rayN-v3.19.zip)
 
-或者在下面的网址下载。
+或者点击下面二爷翻墙网专用网盘下载对应系统的翻墙工具。
 
-[https://pan.5414.gq](https://pan.5414.gq)
+[https://pan.5414.gq](https://pan.5414.gq)  
 
 [https://pan.5414.cf](https://pan.5414.cf)
 
@@ -81,10 +81,8 @@
 
 点击更新一下订阅，收到节点即可使用，如不可以，请点右下角程序图标，点右键，打开http pac的那个代理选项即可。
 
-
-
-如果发现连接不上Google。
-图文说明如下：
+**如果发现连接不上Google。**
+**参考下面的图文说明教程：**
 
 ![1.png](https://i.loli.net/2019/04/25/5cc12d036ad65.png)
 
@@ -129,8 +127,6 @@ https://subcon.py6.pw/sub?target=clash&new_name=true&url=https%3A%2F%2Fjiang.net
 
 先这个网站来找账号。[https://wohaobang.cn/](https://wohaobang.cn)
 
-也可以来这里：[https://shadowsocks-help.github.io/Shadowsocks/appleid.html](https://shadowsocks-help.github.io/Shadowsocks/appleid.html)
-
 还有这里：[https://appledi.com/](https://appledi.com/)
 
 使用账号时需要注意的：
@@ -145,12 +141,12 @@ https://subcon.py6.pw/sub?target=clash&new_name=true&url=https%3A%2F%2Fjiang.net
 在app store账号页面，点击最上面的 Apple ID: xxxx，在出现的弹框中点击“退出登录”》
 退出后返回上一个页面，“iTunes Store与App Store”已经显示为“关”：
 
-[点我学习切换apple id下载其它国家和地区的应用教程](https://tlanyan.me/switch-appleid-to-download-apps/）
+[点我学习切换Apple ID下载其它国家和地区的应用教程](https://tlanyan.me/switch-appleid-to-download-apps/)
 
 * * *
 
 * 下载Shadowrocket后， 点右上角的 + 号，
-* 选择add subscribe 
+* 选择add subscribe （订阅）
 * 添加二爷的订阅地址：[https://jiang.netlify.app](https://jiang.netlify.app)
 * 图文教程：[点我查看图文教程](https://v2sx.github.io/Help/iOS.html)
 
@@ -169,14 +165,14 @@ https://subcon.py6.pw/sub?target=clash&new_name=true&url=https%3A%2F%2Fjiang.net
 - V2rayU
 
 
-### [上面下载慢，点我](https://tlanyan.me/download.php?filename=/v2/macos/v2rayU-v2.2.0.dmg)
+### [点我下载v2rayU-v2.2.0](https://tlanyan.me/download.php?filename=/v2/macos/v2rayU-v2.2.0.dmg)
 
 - ClashX
 
-### [点我下载ClashX](https://tlanyan.me/download.php?filename=/v2/macos/clashX-v1.30.0.dmg)
+### [点我下载ClashX-v1.30.0](https://tlanyan.me/download.php?filename=/v2/macos/clashX-v1.30.0.dmg)
 
 ClashX使用二爷订阅的话，需要把订阅链接转换一下。
-这个地址可以转换。
+这个地址可以转换，转换后添加到订阅处，然后更新一下即可。
 [https://subcon.py6.pw](https://subcon.py6.pw)
 或者这里：
 [https://acl4ssr.netlify.app/](https://acl4ssr.netlify.app/)
@@ -186,6 +182,7 @@ ClashX使用二爷订阅的话，需要把订阅链接转换一下。
 [https://bluedoc.io/agentneo/docs/mk22](https://bluedoc.io/agentneo/docs/mk22)
 这里也有教程。
 [https://wiki.kache.moe/2019/12/11/macOS-ClashX/](https://wiki.kache.moe/2019/12/11/macOS-ClashX/)
+
 ## 5、Linux
 
 

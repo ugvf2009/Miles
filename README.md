@@ -112,9 +112,13 @@
 
 ### Clash for Android
 
-[Clash download](https://tlanyan.me/download.php?filename=/v2/android/ClashForAndroid-v1.2.15.apk)
+[Clash download](https://pan.5414.cf/Android%E5%B9%B3%E5%8F%B0/clash-v2.1.1.apk)
 
-** 点配置，找到“从URL导入”，把这个订阅添加进去。 
+** 点配置，找到“从URL导入”，把这个订阅添加进去即可（android平台，二爷墙裂推荐使用此软件，非常好用）。
+
+不会的话点下面的链接观看小白入门教程
+
+[clash4android使用教程](https://pan.5414.cf/Android%E5%B9%B3%E5%8F%B0/clash4android%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.mp4)
 
 https://api.dler.io/sub?target=clash&new_name=true&url=https%3A%2F%2Fjiang.netlify.app&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FMazeorz%2Fairports%2Fmaster%2FClash%2FSkslaPro-Balance.ini
 

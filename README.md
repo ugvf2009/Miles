@@ -53,8 +53,12 @@
    或者这个：
    
    [https://www.5414.cf](https://www.5414.cf)
+   
+   这个也行
 
-
+   [https://www.5414.ga](https://www.5414.ga)
+   
+   
 * 二爷翻墙永久网址:[https://github.com/ugvf2009/Miles/blob/master/README.md](https://github.com/ugvf2009/Miles/blob/master/README.md)
 
 
@@ -76,6 +80,8 @@
 [https://pan.5414.gq](https://pan.5414.gq)  
 
 [https://pan.5414.cf](https://pan.5414.cf)
+
+[https://pan.5414.ga](https://pan.5414.ga)
 
 解压后双击文件夹里 V2rayN.exe，在订阅设置里添加订阅:https://jiang.netlify.app 
 

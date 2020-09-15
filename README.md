@@ -179,7 +179,7 @@ https://api.dler.io/sub?target=clash&new_name=true&url=https%3A%2F%2Fjiang.netli
 
 - ClashX
 
-### [点我下载ClashX-v1.30.0](https://tlanyan.me/download.php?filename=/v2/macos/clashX-v1.30.0.dmg)
+### [点我下载ClashX-v1.30.0](https://tlanyan.me/download.php?filename=/v2/macos/clashX-v1.30.2.dmg)
 
 ClashX使用二爷订阅的话，需要把订阅链接转换一下。
 这个地址可以转换，转换后添加到订阅处，然后更新一下即可。

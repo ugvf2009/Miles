@@ -184,8 +184,11 @@ https://api.dler.io/sub?target=clash&new_name=true&url=https%3A%2F%2Fjiang.netli
 1.下载 ClashX 客户端，安装后运行。
 ![1.jpg](https://i.loli.net/2019/11/20/uNGrjl2noCL1f5B.jpg)
 2.点击通知栏 ClashX 图标保持选中状态，按快捷键 ⌘+M(订阅快捷键)，在弹出的窗口点击添加输入下方信息
-Url：https://api.dler.io/sub?target=clash&new_name=true&url=https%3A%2F%2Fjiang.netlify.app&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FMazeorz%2Fairports%2Fmaster%2FClash%2FSkslaPro-Balance.ini
+Url：
+https://api.dler.io/sub?target=clash&new_name=true&url=https%3A%2F%2Fjiang.netlify.app&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FMazeorz%2Fairports%2Fmaster%2FClash%2FSkslaPro-Balance.ini
+
 Config Name：二爷翻墙 或者 随便写
+
 ![2.jpg](https://i.loli.net/2019/11/20/8eB13mRbFuszwxg.jpg)
 
 

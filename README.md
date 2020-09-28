@@ -126,7 +126,7 @@
 
 [clash4android使用教程](https://pan.5414.cf/Android%E5%B9%B3%E5%8F%B0/clash4android%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.mp4)
 
-https://api.dler.io/sub?target=clash&new_name=true&url=https%3A%2F%2Fjiang.netlify.app&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FMazeorz%2Fairports%2Fmaster%2FClash%2FSkslaPro-Balance.ini
+https://sub.id9.cc/sub?target=clash&url=https%3A%2F%2Fjiang.netlify.app&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full_AdblockPlus.ini&emoji=false&list=false&udp=false&tfo=false&scv=false&fdn=false&sort=false&new_name=true
 
 
 ##  3、IOS平台 

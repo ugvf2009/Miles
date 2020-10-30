@@ -55,10 +55,9 @@
 解压后双击文件夹里 V2rayN.exe，在订阅设置里添加订阅:https://jiang.netlify.app 
 点击更新一下订阅，收到节点即可使用。
 如不可以，请点右下角程序图标，点右键，打开http pac的那个代理选项即可。
+还不行，按照下面的图文教程操作。
 
-**如果发现连接不上Google。**
 
-**参考下面的图文说明教程：**
 ![1.png](https://i.loli.net/2019/04/25/5cc12d036ad65.png)
 ![2.png](https://i.loli.net/2019/04/25/5cc12d03c15fb.png)
 

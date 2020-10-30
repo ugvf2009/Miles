@@ -57,6 +57,7 @@
 如不可以，请点右下角程序图标，点右键，打开http pac的那个代理选项即可。
 
 **如果发现连接不上Google。**
+
 **参考下面的图文说明教程：**
 ![1.png](https://i.loli.net/2019/04/25/5cc12d036ad65.png)
 ![2.png](https://i.loli.net/2019/04/25/5cc12d03c15fb.png)
@@ -87,7 +88,9 @@
 简易教程：
 1、打开软件，点第2个配置。
 2、点“新配置”》“URL"》找到“第3个URL》复制下面的地址粘贴进去
+
 https://api.dler.io/sub?target=clash&new_name=true&url=https%3A%2F%2Fjiang.netlify.app&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online.ini
+
 》自动更新 那里写60分钟即可。》然后点右上角保存。
 返回后，点：配置，选择你刚刚添加的配置，选择一下。
 》最后，点击第1个：已停止 三个字启动软件即可。

@@ -16,7 +16,7 @@
 为啥推荐它哩，因为它属于`灰 黄`色地带的梯子，
 还是比较稳的，不用担心跑路，随便推荐几个身边的小伙伴，即可无限流量上网。
 点下面2个地址可下载。
-| [下载地址1](https://jsq.laihuluwa.com/aff/azyfx)     | [下载地址2](https://vv.lanshuapi.com/aff/azyfx)
+| [下载地址1](https://jsq.laihuluwa.com/aff/aAKg7)     | [下载地址2](https://web.lanshuapi.com/aff/aAKg7)
 
 ---------------------------------------------------------------------------------------------------------------------
 
@@ -37,15 +37,15 @@
 
 *  假如你啥也不懂，看Google和Youtube就用下面网址
 
-*  [https://www.5414.gq](https://www.5414.gq) 
+*  [https://www.5414.gq](https://www.baidu2b.cf) 
 
    或者这个：
    
-   [https://www.5414.cf](https://www.5414.cf)
+   [https://www.5414.cf](https://www.baidu2b.cf)
    
    这个也行
 
-   [https://www.5414.ga](https://www.5414.ga)
+   [https://www.5414.ga](https://www.baidu2b.cf)
    
 ## 1、windows平台软件： 
 ### v2rayN

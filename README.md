@@ -65,7 +65,9 @@
 
 ### v2rayNG
 
-[点我下载](https://proxy.freecdn.workers.dev?url=https%3A%2F%2Fpan.5414.cf%2FAndroid%2Fv2rayNG.apk)
+[点我下载并安装](https://proxy.freecdn.workers.dev?url=https%3A%2F%2Fpan.5414.cf%2FAndroid%2Fv2rayNG.apk)
+
+
 **使用方法：**
 
 打开软件点左上角，选择“订阅设置”
@@ -128,8 +130,12 @@ Shadowroket在ios设备上（含ipad）使用教程
 2.点击通知栏 ClashX 图标保持选中状态，按快捷键 ⌘+M(订阅快捷键)
 会弹出以下窗口。
 ![2.jpg](https://i.loli.net/2019/11/20/8eB13mRbFuszwxg.jpg)
+
 Url：复制下面的链接粘贴进去：
+
 https://api.dler.io/sub?target=clash&new_name=true&url=https%3A%2F%2Fjiang.netlify.app&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FMazeorz%2Fairports%2Fmaster%2FClash%2FSkslaPro-Balance.ini
+
+
 Config Name：随便写
 
 ClashX & 其它平台clash的客户端，使用二爷订阅地址需要把订阅链接转换。

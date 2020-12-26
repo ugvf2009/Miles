@@ -50,7 +50,7 @@
 ## 1、windows平台软件： 
 ### v2rayN
 
-[点我下载](https://proxy.freecdn.workers.dev?url=https%3A%2F%2Fpan.5414.cf%2FWindows%2Fv2rayN.zip)
+[点我下载](https://proxy.freecdn.workers.dev?url=https%3A%2F%2Fpan.1808.ga%2FWindows%2Fv2rayN.zip)
 
 解压后双击文件夹里 V2rayN.exe，在订阅设置里添加订阅:https://jiang.netlify.app 
 点击更新一下订阅，收到节点即可使用。
@@ -65,7 +65,7 @@
 
 ### v2rayNG
 
-[点我下载并安装](https://proxy.freecdn.workers.dev?url=https%3A%2F%2Fpan.5414.cf%2FAndroid%2Fv2rayNG.apk)
+[点我下载并安装](https://proxy.freecdn.workers.dev?url=https%3A%2F%2Fpan.1808.ga%2FAndroid%2Fv2rayNG.apk)
 
 
 **使用方法：**
@@ -84,7 +84,7 @@
 
 ### Clash for Android
 
-[Clash download](https://proxy.freecdn.workers.dev?url=https%3A%2F%2Fpan.5414.cf%2FAndroid%2FClashForAndroid-v2.1.6.apk)
+[Clash download](https://proxy.freecdn.workers.dev?url=https%3A%2F%2Fpan.1808.ga%2FAndroid%2FClashForAndroid-v2.1.6.apk)
 
 简易教程：
 1、打开软件，点第2个配置。
@@ -97,7 +97,7 @@ https://api.dler.io/sub?target=clash&new_name=true&url=https%3A%2F%2Fjiang.netli
 》最后，点击第1个：已停止 三个字启动软件即可。
 不会的话点下面的链接观看小白入门教程
 
-[Clash4android使用教程](https://proxy.freecdn.workers.dev?url=https%3A%2F%2Fpan.5414.cf%2FAndroid%2Fclash4android.mp4)
+[Clash4android使用教程](https://proxy.freecdn.workers.dev?url=https%3A%2F%2Fpan.1808.ga%2FAndroid%2Fclash4android.mp4)
 
 ##  3、IOS平台 
 

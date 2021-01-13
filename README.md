@@ -37,15 +37,15 @@
 
 *  假如你啥也不懂，看Google和Youtube就用下面网址
 
-*  [https://www.5414.gq](https://www.baidu2b.cf) 
+*  [https://www.5414.gq](https://www.ali2b.cf) 
 
    或者这个：
    
-   [https://www.5414.cf](https://www.baidu2b.cf)
+   [https://www.5414.cf](https://www.ali2b.cf)
    
    这个也行
 
-   [https://www.5414.ga](https://www.baidu2b.cf)
+   [https://www.5414.ga](https://www.ali2b.cf)
    
 ## 1、windows平台软件： 
 ### v2rayN

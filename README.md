@@ -51,7 +51,9 @@
 ## 1、windows平台软件： 
 ### v2rayN
 
-[点我下载](https://proxy.freecdn.workers.dev?url=https%3A%2F%2Fpan.1808.ga%2FWindows%2Fv2rayN.zip)
+[点我下载](https://pan.5414.cf/Windows/v2rayN-Core.zip)
+or
+[点 我](https://d16.tlanyan.me:20118/v2/windows/v2rayN-v4.9.zip)
 
 解压后双击文件夹里 V2rayN.exe，在订阅设置里添加订阅:https://jiang.netlify.app 
 点击更新一下订阅，收到节点即可使用。

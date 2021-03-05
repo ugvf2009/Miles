@@ -2,8 +2,21 @@
 
 ## Google搜索“二爷翻墙”即可找到二爷
 二爷会在力所能及的范围内提供免费优质的服务。
-
-[TOC]
+- [二爷翻墙网](#-----)
+  * [免费方案：蚂蚁加速器](#----------)
+  * [1、windows平台软件：](#1-windows-----)
+    + [V2rayN](#v2rayn)
+  * [2、Android平台软件](#2-android----)
+    + [v2rayNG](#v2rayng)
+    + [Clash for Android](#clash-for-android)
+  * [3、IOS平台](#3-ios--)
+    + [Shadowrocket(俗称“小火箭”)](#shadowrocket---------)
+  * [4、Mac平台](#4-mac--)
+    + [Clash](#clash)
+  * [5、Linux](#5-linux)
+    + [[点我学习Linux上翻墙教程](https://github.com/V2Sx/v2rayL)](#-----linux-------https---githubcom-v2sx-v2rayl-)
+      - [[Qv2ray for Linux](https://tlanyan.me/download.php?filename=/v2/linux/Qv2ray.v2.7.0-pre1-x64.AppImage)](#-qv2ray-for-linux--https---tlanyanme-downloadphp-filename--v2-linux-qv2rayv270-pre1-x64appimage-)
+      - [[Mellow](https://tlanyan.me/download.php?filename=/v2/linux/Mellow-0.1.22.AppImage)](#-mellow--https---tlanyanme-downloadphp-filename--v2-linux-mellow-0122appimage-)
 
 [翻墙新手&老手也可点我，有软件教程，也有下载地址](https://tlanyan.me/v2ray-clients-download/)
 

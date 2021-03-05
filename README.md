@@ -2,19 +2,34 @@
 
 ## Google搜索“二爷翻墙”即可找到二爷
 二爷会在力所能及的范围内提供免费优质的服务。
+
+[TOC]
+
 [翻墙新手&老手也可点我，有软件教程，也有下载地址](https://tlanyan.me/v2ray-clients-download/)
+
 ## 一切都是刚刚开始！&&  一切已经开始。
-1. 建立本站初衷，一直有人问我怎么翻墙，本人比较懒，就建立了本站，教程完全是按照对翻墙不懂的小白写的，工具基本上都是打开即用的。如果你们因为二爷的翻墙教程，能够科学上网，拯救智商受益了。本人将由衷欣慰。使用二爷软件时，请卸载各种“360爱国卫士”，因为它会监控你，不喜欢我的风格，请直接点右上角关闭。
+1. 建立本站初衷，一直有人问我怎么翻墙，本人比较懒，就建立了本站，教程完全是按照对翻墙不懂的小白写的，工具基本上都是打开即用的。如果你们因为二爷的翻墙教程，能够科学上网，拯救智商受益了。本人将由衷欣慰。使用二爷软件时，请卸载各种“360爱国卫士”，因为它会监控你，不喜欢我的风格，请直接点右上角关闭，不接受小粉红在我的issues区瞎BB。
+
 2. 本页面部分语言可能有背于社会主义科学价值观，不喜匆视即可。
+
 3. 工具仅限于科学上网学术研究等，请遵守相关法律法规，不做违背党和国家的事。由此产生的后果，由使用者自己承担，其实我也不知道你干啥，总之，干就完了！😘💕
+
 4. 如果你有账号乐于助人，欢迎将配置发至：[minzhuziyou@protonmail.com](minzhuziyou@protonmail.com)
+
 5. 对于安全性要求高的朋友，二爷推荐自己购买vps搭建梯子。
-[点我购买](https://app.cloudcone.com/?ref=2616)
+
+  💕**便宜方案 [点我购买Cloudcone](https://app.cloudcone.com/?ref=2616)  流量大一些，推荐有技术背景的人使用。**💕💕
+
+  💕**翻墙级的泰斗 [点我购买搬瓦工](https://bandwagonhost.com/aff.php?aff=21498)  付款的时候可使用优惠码：BWH3HYATVBJW**💕
+
+  搭建脚本推荐：https://github.com/mack-a/v2ray-agent
+
+  
 ----------------------------------------------------------------------------------------------------------------
 
-假如你不想花钱，二爷给大家推荐一款，免费的加速器.
-为啥推荐它哩，因为它属于`灰 黄`色地带的梯子，
-还是比较稳的，不用担心跑路，随便推荐几个身边的小伙伴，即可无限流量上网。
+## 免费方案：蚂蚁加速器
+
+假如你不想花钱，二爷给大家推荐一款免费的加速器，为啥推荐它呢，因为它属于**灰 黄**色地带的梯子，还是比较稳的，不用担心跑路，随便推荐几个身边的小伙伴，即可无限流量上网，初始有300MB流量，应急还是不错的。
 点下面2个地址可下载。
 
 | [下载地址1](https://web.lanshuapi.com/aff/aDz6M)     | [下载地址2](https://jsq.laihuluwa.com/aff/aDz6M)
@@ -27,7 +42,7 @@
  欢迎把您的v2ray、Trojan、Shadowsocks配置用海外邮箱发送给我：
 [minzhuziyou@protonmail.com](minzhuziyou@protonmail.com)
  暂不接受ssr
- 
+
 **国内邮箱概不回复，请使用Outlook，gmail，Protonmail邮箱。谢谢！**
 
 
@@ -40,42 +55,36 @@
 
 *  [https://www.5414.gq](https://www.ali2b.cf) 
 
-   或者这个：
-   
-   [https://www.5414.cf](https://www.ali2b.cf)
-   
-   这个也行
-
-   [https://www.5414.ga](https://www.ali2b.cf)
    
 ## 1、windows平台软件： 
-### v2rayN
+### V2rayN
 
-[点我下载](https://pan.5414.cf/Windows/v2rayN-Core.zip)
-or
-[点 我](https://d16.tlanyan.me:20118/v2/windows/v2rayN-v4.9.zip)
 
-解压后双击文件夹里 V2rayN.exe，在订阅设置里添加订阅:https://jiang.netlify.app 
+
+| [点我下载](https://pan.5414.cf/Windows/v2rayN-Core.zip)      |
+| ------------------------------------------------------------ |
+| [点我下载Windows系统使用的V2rayN](https://tlanyan.me/download.php?filename=/v2/windows/v2rayN-v4.12.zip) |
+
+下载软件解压后双击文件夹里 V2rayN.exe，在订阅设置里添加订阅:https://jiang.netlify.app 
 点击更新一下订阅，收到节点即可使用。
-如不可以，请点右下角程序图标，点右键，打开http pac的那个代理选项即可。
-还不行，按照下面的图文教程操作。
+如不可以，请点右下角程序图标，点右键，依次选择“系统代理》自动配置系统代理”。
 
-
-![1.png](https://i.loli.net/2019/04/25/5cc12d036ad65.png)
-![2.png](https://i.loli.net/2019/04/25/5cc12d03c15fb.png)
+![订阅设置.png](https://i.loli.net/2021/03/05/IA5US8H1KtEk6lF.png)
 
 ## 2、Android平台软件
 
 ### v2rayNG
 
-[点我下载并安装](https://proxy.freecdn.workers.dev?url=https%3A%2F%2Fpan.1808.ga%2FAndroid%2Fv2rayNG.apk)
-
+| 下载地址（根据网络情况，自行点任何一个下载相应的apk文件后安装） |                                                           |
+| ------------------------------------------------------------ | --------------------------------------------------------- |
+| [V2rayNG二爷下载](https://proxy.freecdn.workers.dev?url=https%3A%2F%2Fpan.1808.ga%2FAndroid%2Fv2rayNG.apk) | [官网下载地址](https://github.com/2dust/v2rayNG/releases) |
 
 **使用方法：**
 
 打开软件点左上角，选择“订阅设置”
 依次点“+”号；备注随便写。
 在地址（URL）那填写:[https://jiang.netlify.app](https://jiang.netlify.app)
+
 * 然后点右上角的小对号保存。
 退出来后，点右上角的三个小点，点击》最下面的 更新订阅，就能收到二爷给您准备好的服务器了。
     点右下角的小V，连接，即可连接国际互联网了。
@@ -106,8 +115,11 @@ https://api.dler.io/sub?target=clash&new_name=true&url=https%3A%2F%2Fjiang.netli
 
 ### Shadowrocket(俗称“小火箭”)
 ：）水果机需要一个美区的ID才能下载,国区由于厉害国原因，下架了， 当然细心的二爷已经给你准备好了。
-先这个网站来找账号。[https://wohaobang.cn/](https://wohaobang.cn)
-还有这里：[https://appledi.com/](https://appledi.com/)
+先这个网站来找账号。[https://wohaobang.cn/](https://wohaobang.cn) 还有这里：[https://appledi.com/](https://appledi.com/)
+
+如果还没有可以加电报群：https://t.me/shadowrocketid
+
+但是二爷强烈建议 自己把Apple ID切换成美区，自行在某宝购买礼品卡充值购买，才2.99$，一包烟钱。
 
 使用账号时需要注意的：
 - 千万不要在 iCloud 中登陆 Apple ID（请在心里说3遍或者5遍）
@@ -122,33 +134,23 @@ Shadowroket在ios设备上（含ipad）使用教程
 
 ## 4、Mac平台 
 
-- V2rayU
-### [点我下载v2rayU](https://tlanyan.me/download.php?filename=/v2/macos/v2rayU-v3.0-preview.app.zip)
+### Clash
 
-- ClashX
-### [点我下载ClashX-v1.30.2](https://tlanyan.me/download.php?filename=/v2/macos/clashX-v1.31.3.dmg)
+[Clash下载](https://github.com/Fndroid/clash_for_windows_pkg/releases)
+
 使用教程：
-1.下载 ClashX 客户端，安装后运行。
-![1.jpg](https://i.loli.net/2019/11/20/uNGrjl2noCL1f5B.jpg)
-2.点击通知栏 ClashX 图标保持选中状态，按快捷键 ⌘+M(订阅快捷键)
-会弹出以下窗口。
-![2.jpg](https://i.loli.net/2019/11/20/8eB13mRbFuszwxg.jpg)
+1.下载 Clash客户端，安装后运行
 
-Url：复制下面的链接粘贴进去：
+URL：复制下面的链接粘贴到软件配置文件中去：
 
 https://api.dler.io/sub?target=clash&new_name=true&url=https%3A%2F%2Fjiang.netlify.app&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FMazeorz%2Fairports%2Fmaster%2FClash%2FSkslaPro-Balance.ini
 
+图文教程：
 
-Config Name：随便写
+![photo_2021-03-05_13-13-17.jpg](https://i.loli.net/2021/03/05/Y5KcTHLz2rSjA7y.jpg)
 
-ClashX & 其它平台clash的客户端，使用二爷订阅地址需要把订阅链接转换。
-**一般我用下面的地址：**
-[https://acl4ssr.netlify.app/](https://acl4ssr.netlify.app/)
-使用方法Google吧，很简单的，需要会点儿常用计算机术语（洋文）。
-这里有教程。
-[https://bluedoc.io/agentneo/docs/mk22](https://bluedoc.io/agentneo/docs/mk22)
-这里也有教程。
-[https://wiki.kache.moe/2019/12/11/macOS-ClashX/](https://wiki.kache.moe/2019/12/11/macOS-ClashX/)
+
+
 
 ## 5、Linux
 

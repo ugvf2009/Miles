@@ -2,24 +2,7 @@
 
 ## Google搜索“二爷翻墙”即可找到二爷
 二爷会在力所能及的范围内提供免费优质的服务。
-- [二爷翻墙网](#-----)
-  * [免费方案：蚂蚁加速器](#----------)
-  * [1、windows平台软件：](#1-windows-----)
-    + [V2rayN](#v2rayn)
-  * [2、Android平台软件](#2-android----)
-    + [v2rayNG](#v2rayng)
-    + [Clash for Android](#clash-for-android)
-  * [3、IOS平台](#3-ios--)
-    + [Shadowrocket(俗称“小火箭”)](#shadowrocket---------)
-  * [4、Mac平台](#4-mac--)
-    + [Clash](#clash)
-  * [5、Linux](#5-linux)
-    + [[点我学习Linux上翻墙教程](https://github.com/V2Sx/v2rayL)](#-----linux-------https---githubcom-v2sx-v2rayl-)
-      - [[Qv2ray for Linux](https://tlanyan.me/download.php?filename=/v2/linux/Qv2ray.v2.7.0-pre1-x64.AppImage)](#-qv2ray-for-linux--https---tlanyanme-downloadphp-filename--v2-linux-qv2rayv270-pre1-x64appimage-)
-      - [[Mellow](https://tlanyan.me/download.php?filename=/v2/linux/Mellow-0.1.22.AppImage)](#-mellow--https---tlanyanme-downloadphp-filename--v2-linux-mellow-0122appimage-)
-
 [翻墙新手&老手也可点我，有软件教程，也有下载地址](https://tlanyan.me/v2ray-clients-download/)
-
 ## 一切都是刚刚开始！&&  一切已经开始。
 1. 建立本站初衷，一直有人问我怎么翻墙，本人比较懒，就建立了本站，教程完全是按照对翻墙不懂的小白写的，工具基本上都是打开即用的。如果你们因为二爷的翻墙教程，能够科学上网，拯救智商受益了。本人将由衷欣慰。使用二爷软件时，请卸载各种“360爱国卫士”，因为它会监控你，不喜欢我的风格，请直接点右上角关闭，不接受小粉红在我的issues区瞎BB。
 
@@ -37,7 +20,7 @@
 
   搭建脚本推荐：https://github.com/mack-a/v2ray-agent
 
-  
+
 ----------------------------------------------------------------------------------------------------------------
 
 ## 免费方案：蚂蚁加速器
@@ -66,10 +49,10 @@
 
 *  假如你啥也不懂，看Google和Youtube就用下面网址
 
-*  [https://www.5414.gq](https://www.ali2b.cf) 
+*  [https://www.5414.gq](https://www.ali2b.cf)
 
-   
-## 1、windows平台软件： 
+
+## 1、windows平台软件：
 ### V2rayN
 
 
@@ -78,7 +61,7 @@
 | ------------------------------------------------------------ |
 | [点我下载Windows系统使用的V2rayN](https://tlanyan.me/download.php?filename=/v2/windows/v2rayN-v4.12.zip) |
 
-下载软件解压后双击文件夹里 V2rayN.exe，在订阅设置里添加订阅:https://jiang.netlify.app 
+下载软件解压后双击文件夹里 V2rayN.exe，在订阅设置里添加订阅:https://jiang.netlify.app
 点击更新一下订阅，收到节点即可使用。
 如不可以，请点右下角程序图标，点右键，依次选择“系统代理》自动配置系统代理”。
 
@@ -124,7 +107,7 @@ https://api.dler.io/sub?target=clash&new_name=true&url=https%3A%2F%2Fjiang.netli
 
 [Clash4android使用教程](https://proxy.freecdn.workers.dev?url=https%3A%2F%2Fpan.1808.ga%2FAndroid%2Fclash4android.mp4)
 
-##  3、IOS平台 
+##  3、IOS平台
 
 ### Shadowrocket(俗称“小火箭”)
 ：）水果机需要一个美区的ID才能下载,国区由于厉害国原因，下架了， 当然细心的二爷已经给你准备好了。
@@ -145,7 +128,7 @@ Shadowroket在ios设备上（含ipad）使用教程
 * 图文教程：[点我查看图文教程](https://v2sx.github.io/Help/iOS.html)
 * 在线安装：[https://shadowsocks-help.github.io/ios/](https://shadowsocks-help.github.io/ios/)
 
-## 4、Mac平台 
+## 4、Mac平台
 
 ### Clash
 

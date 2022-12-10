@@ -2,7 +2,7 @@
 
 ## Google搜索“二爷翻墙”即可找到二爷
 二爷会在力所能及的范围内提供免费优质的服务。
-[翻墙新手&老手也可点我，有软件教程，也有下载地址](https://tlanyan.me/v2ray-clients-download/)
+[有经验的直接点这里](https://tlanyan.me/v2ray-clients-download/)
 ## 一切都是刚刚开始！&&  一切已经开始。
 1. 建立本站初衷，一直有人问我怎么翻墙，本人比较懒，就建立了本站，教程完全是按照对翻墙不懂的小白写的，工具基本上都是打开即用的。如果你们因为二爷的翻墙教程，能够科学上网，拯救智商受益了。本人将由衷欣慰。使用二爷软件时，请卸载各种“360爱国卫士”，因为它会监控你，不喜欢我的风格，请直接点右上角关闭，不接受小粉红在我的issues区瞎BB。
 
@@ -18,7 +18,7 @@
 
   💕**翻墙级的泰斗 [点我购买搬瓦工](https://bandwagonhost.com/aff.php?aff=21498)  付款的时候可使用优惠码：BWH3HYATVBJW**💕
 
-  搭建脚本推荐(连上vps,回车一撸到底)：
+  搭建脚本推荐：
  ```
  wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/reeceyng/v2ray-agent/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh
 ```

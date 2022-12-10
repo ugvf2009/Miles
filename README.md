@@ -18,8 +18,10 @@
 
   💕**翻墙级的泰斗 [点我购买搬瓦工](https://bandwagonhost.com/aff.php?aff=21498)  付款的时候可使用优惠码：BWH3HYATVBJW**💕
 
-  搭建脚本推荐：https://github.com/mack-a/v2ray-agent
-
+  搭建脚本推荐(连上vps,回车一撸到底)：
+ ```
+ wget https://jiang.netlify.app/onekey.sh -O onekey.sh && bash onekey.sh
+```
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -28,28 +30,14 @@
 假如你不想花钱，二爷给大家推荐一款免费的加速器，为啥推荐它呢，因为它属于**灰 黄**色地带的梯子，还是比较稳的，不用担心跑路，随便推荐几个身边的小伙伴，即可无限流量上网，初始有300MB流量，应急还是不错的。
 点下面2个地址可下载。
 
-| [下载地址1](https://web.lanshuapi.com/aff/aK6RB)     | [下载地址2](https://jsq.laihuluwa.com/aff/aK6RB)
+[下载地址](https://ant.aff007.club/aff/5fVm)   
 
 ---------------------------------------------------------------------------------------------------------------------
-
-
-
- 由于二爷精力和工作原因，手里可用翻墙账号有限，
- 欢迎把您的v2ray、Trojan、Shadowsocks配置用海外邮箱发送给我：
-[minzhuziyou@protonmail.com](minzhuziyou@protonmail.com)
- 暂不接受ssr
-
-**国内邮箱概不回复，请使用Outlook，gmail，Protonmail邮箱。谢谢！**
-
 
 * 别人想翻墙，扫下面这个二维码,大家传播下面的二维码吧。
 
 ![url.png](https://i.loli.net/2019/11/05/VcNaIKUyJ7twsSf.png)
 
-
-*  假如你啥也不懂，看Google和Youtube就用下面网址
-
-*  [https://www.5414.gq](https://www.ali2b.cf)
 
 
 ## 1、windows平台软件：
@@ -57,9 +45,7 @@
 
 
 
-| [点我下载](https://pan.5414.cf/Windows/v2rayN-Core.zip)      |
-| ------------------------------------------------------------ |
-| [点我下载Windows系统使用的V2rayN](https://tlanyan.me/download.php?filename=/v2/windows/v2rayN-v4.12.zip) |
+| [点我下载](https://ghproxy.com/https://github.com/2dust/v2rayN/releases/download/5.38/v2rayN-Core.zip)      |
 
 下载软件解压后双击文件夹里 V2rayN.exe，在订阅设置里添加订阅:https://jiang.netlify.app
 点击更新一下订阅，收到节点即可使用。
@@ -70,92 +56,80 @@
 ## 2、Android平台软件
 
 ### v2rayNG
-
-| 下载地址（根据网络情况，自行点任何一个下载相应的apk文件后安装） |                                                           |
-| ------------------------------------------------------------ | --------------------------------------------------------- |
-| [V2rayNG二爷下载](https://proxy.freecdn.workers.dev?url=https%3A%2F%2Fpan.1808.ga%2FAndroid%2Fv2rayNG.apk) | [官网下载地址](https://github.com/2dust/v2rayNG/releases) |
-
+ 
+ [v2rayNG下载](https://ghproxy.com/https://github.com/2dust/v2rayNG/releases/download/1.7.28/v2rayNG_1.7.28.apk)
+ 
 **使用方法：**
 
 打开软件点左上角，选择“订阅设置”
 依次点“+”号；备注随便写。
-在地址（URL）那填写:[https://jiang.netlify.app](https://jiang.netlify.app)
-
-* 然后点右上角的小对号保存。
-退出来后，点右上角的三个小点，点击》最下面的 更新订阅，就能收到二爷给您准备好的服务器了。
-    点右下角的小V，连接，即可连接国际互联网了。
-此时是全局代理，如想自动代理，请在设置里，更改路由模式为“绕过局域网和大陆”即可，国外的网站经过代理服务器，国内的直连。
-
-从此上车，随便飞。发现访问不了Google，请及时更新订阅哦！
+在地址（URL）那填写下面的链接
+ ```
+ https://jiang.netlify.app
+```
+> 然后点右上角的小对号保存。
+退出来后，点右上角的三个小点，点击》最下面的 更新订阅，
+就能收到二爷给您准备好的服务器了。
+点右下角的小V，连接，即可连接国际互联网了。
+此时是全局代理，如想自动代理，请在设置里，更改路由模式为“绕过局域网和大陆”即可，
+国外的网站经过代理服务器，国内的直连。
+从此上车，随便飞。发现访问不了Google，请及时更新订阅哦
 
 **更新方法：一定要断开右下角的小“V”图标，点右上角有3个小点，选择“更新订阅！”**
 
-### Clash for Android
+### ClashMetaForAndroid
 
-[Clash download](https://proxy.freecdn.workers.dev?url=https%3A%2F%2Fpan.1808.ga%2FAndroid%2FClashForAndroid-v2.1.6.apk)
+[ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/Prerelease-alpha/cmfa-2.5.13-pre03-meta-alpha-arm64-v8a-release.apk)
 
 简易教程：
 1、打开软件，点第2个配置。
 2、点“新配置”》“URL"》找到“第3个URL》复制下面的地址粘贴进去
 
-https://api.dler.io/sub?target=clash&new_name=true&url=https%3A%2F%2Fjiang.netlify.app&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online.ini
+ ```
+ https://shorturl.1808.cf/kSJmAF
+ ```
 
 》自动更新 那里写60分钟即可。》然后点右上角保存。
 返回后，点：配置，选择你刚刚添加的配置，选择一下。
 》最后，点击第1个：已停止 三个字启动软件即可。
 不会的话点下面的链接观看小白入门教程
 
-[Clash4android使用教程](https://proxy.freecdn.workers.dev?url=https%3A%2F%2Fpan.1808.ga%2FAndroid%2Fclash4android.mp4)
+[Clash4android使用教程](https://pan.731808.cf/Android/clash4android.mp4)
 
 ##  3、IOS平台
 
 ### Shadowrocket(俗称“小火箭”)
-：）水果机需要一个美区的ID才能下载,国区由于厉害国原因，下架了， 当然细心的二爷已经给你准备好了。
-先这个网站来找账号。[https://wohaobang.cn/](https://wohaobang.cn) 还有这里：[https://appledi.com/](https://appledi.com/)
+[美国区AppStore下载地址](https://apps.apple.com/us/app/shadowrocket/id932747118?l=zh)
+> 这是付费软件，2.99$ 买断，一包烟钱。建议自己注册美国区Apple ID账号然后去某宝买美国区礼品卡充值购买。别到处找免费账号了。时间成本太大。
 
-如果还没有可以加电报群：https://t.me/shadowrocketid
-
-但是二爷强烈建议 自己把Apple ID切换成美区，自行在某宝购买礼品卡充值购买，才2.99$，一包烟钱。
-
-使用账号时需要注意的：
-- 千万不要在 iCloud 中登陆 Apple ID（请在心里说3遍或者5遍）
-简要教程：
-进入 IOS设置》账号设置》媒体与购买项目》左上角》点退出登陆商店。
-退出后返回上一个页面，“iTunes Store与App Store”已经显示为“关”：
-Shadowroket在ios设备上（含ipad）使用教程
-* 下载Shadowrocket后， 首页的点右上角的 + 号，选择add subscribe （订阅）
-* 在 URL后面填写：二爷的订阅地址：[https://jiang.netlify.app](https://jiang.netlify.app)
-* 图文教程：[点我查看图文教程](https://v2sx.github.io/Help/iOS.html)
-* 在线安装：[https://shadowsocks-help.github.io/ios/](https://shadowsocks-help.github.io/ios/)
 
 ## 4、Mac平台
 
 ### Clash
 
-[Clash下载](https://github.com/Fndroid/clash_for_windows_pkg/releases)
+[适用x86平台的MacOS Clash下载](https://ghprxoy.com/https://github.com/zzzgydi/clash-verge/releases/download/v1.2.0/Clash.Verge_1.2.0_x64.dmg)
+
+[适配arm架构的MacOS Clash下载](https://ghprxoy.com/https://github.com/zzzgydi/clash-verge/releases/download/v1.2.0/Clash.Verge_1.2.0_x64.dmg)
+
 
 使用教程：
 1.下载 Clash客户端，安装后运行
 
-URL：复制下面的链接粘贴到软件配置文件中去：
+URL：复制下面的链接粘贴到软件：配置>配置文件链接>点“导入” 
 
-https://api.dler.io/sub?target=clash&new_name=true&url=https%3A%2F%2Fjiang.netlify.app&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FMazeorz%2Fairports%2Fmaster%2FClash%2FSkslaPro-Balance.ini
+ ```
+ https://shorturl.1808.cf/kSJmAF
+ ```
+
+然后，在左侧，找到：设置> 系统代理 打开即可。
+
+
 
 图文教程：
 
 ![photo_2021-03-05_13-13-17.jpg](https://i.loli.net/2021/03/05/Y5KcTHLz2rSjA7y.jpg)
 
 
-
-
-## 5、Linux
-
-
-
-### [点我学习Linux上翻墙教程](https://github.com/V2Sx/v2rayL)
-
-#### [Qv2ray for Linux](https://tlanyan.me/download.php?filename=/v2/linux/Qv2ray.v2.7.0-pre1-x64.AppImage)
-#### [Mellow](https://tlanyan.me/download.php?filename=/v2/linux/Mellow-0.1.22.AppImage)
 
 后记：由于众所周知的原因，西朝鲜的很多民众由于信息封锁，无法访问民主宪政国家的大型网站，很多真相被蒙蔽。 如Google，Twitter，Facebook，Instagram，Telegram，Tumblr等、 每天看CCAV无脑续集，看手撕鬼子神剧，某某傻逼创业日入万元， 火箭抹上了印度神油，又他妈射天去了，武器军队又牛逼了， 辽宁号装满柴油冒起黑烟出去装逼半道没油了，别人又不敢惹了，我们又有核武器了。 今天范冰冰怀孕，明天杨幂堕胎，马云又上讲台出售精神伟哥， 朋友拉微信让你进群，用话术套路你，“为你省钱”拼团领券立减了，让你消费他就从中获利（佣金）了， 某些傻逼又卖头脑风暴了，这是个欺骗的世界，无知的世界， 中国这群傻逼就是被仁、义、礼、智、信这些所谓的儒家思想给洗脑洗成傻逼了， 其实都他妈的是白天正人君子，晚上男盗女娼，都是一堆Loser。 如果哪个明星不生孩子了，CCAV频道都编不出故事啥哄你们开心了。 这是个戏子横行，婊子丛生，骗子臭不要脸的时代。从上到下跪舔的时代。 傻逼的行为不愿你们。你们也是无辜的，毕竟洗脑洗这么多年了。你们的可怜和无知，才需要在心中树立偶像英雄和领袖。 但我真心希望你们能在二爷的指导下，用二爷提供的方法出去感受一下，拥抱一下这个世界的文明。 二爷做为资深爬墙看片爱好者，特此写了本教程。让你从小白秒变小小白。 来吧，访问世界文明，自由，拥抱普世价值！ 从此告别傻逼傲慢无知没有独立思考能力的自己、做一个有点儿思想的自己。人到暮年，告诉自己儿孙，自己活过。
 

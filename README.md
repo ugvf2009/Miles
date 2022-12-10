@@ -20,7 +20,7 @@
 
   搭建脚本推荐(连上vps,回车一撸到底)：
  ```
- wget https://jiang.netlify.app/onekey.sh -O onekey.sh && bash onekey.sh
+ wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/reeceyng/v2ray-agent/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh
 ```
 
 ----------------------------------------------------------------------------------------------------------------

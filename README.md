@@ -38,7 +38,7 @@
 
 
 
-| [点我下载](https://ghproxy.com/https://github.com/2dust/v2rayN/releases/download/6.0/v2rayN.zip)      |
+| [点我下载](https://ghproxy.com/https://github.com/2dust/v2rayN/releases/download/6.6/v2rayN-With-Core.zip)      |
 
 下载软件解压后双击文件夹里 V2rayN.exe，在订阅设置里添加订阅:https://jiang.netlify.app
 点击更新一下订阅，收到节点即可使用。
@@ -50,7 +50,7 @@
 
 ### v2rayNG
  
- [v2rayNG下载](https://ghproxy.com/https://github.com/2dust/v2rayNG/releases/download/1.7.31/v2rayNG_1.7.31.apk)
+ [v2rayNG下载](https://ghproxy.com/https://github.com/2dust/v2rayNG/releases/download/1.7.34/v2rayNG_1.7.34_arm64-v8a.apk)
  
 **使用方法：**
 
@@ -72,7 +72,7 @@
 
 ### ClashMetaForAndroid
 
-[ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/Prerelease-alpha/cmfa-2.5.13-pre03-meta-alpha-arm64-v8a-release.apk)
+[ClashMetaForAndroid](https://ghproxy.com/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/Prerelease-alpha/cmfa-2.6.3-meta-alpha-arm64-v8a-release.apk)
 
 简易教程：
 1、打开软件，点第2个配置。
@@ -100,9 +100,9 @@
 
 ### Clash
 
-[适用x86平台的MacOS Clash下载](https://ghprxoy.com/https://github.com/zzzgydi/clash-verge/releases/download/v1.2.0/Clash.Verge_1.2.0_x64.dmg)
+[适用x86平台的MacOS Clash下载](https://ghprxoy.com/https://github.com/zzzgydi/clash-verge/releases/download/v1.2.2/Clash.Verge_1.2.2_x64.dmg)
 
-[适配arm架构的MacOS Clash下载](https://ghprxoy.com/https://github.com/zzzgydi/clash-verge/releases/download/v1.2.0/Clash.Verge_1.2.0_x64.dmg)
+[适配arm架构的MacOS Clash下载](https://ghprxoy.com/https://github.com/zzzgydi/clash-verge/releases/download/v1.2.2/Clash.Verge_1.2.2_aarch64.dmg)
 
 
 使用教程：

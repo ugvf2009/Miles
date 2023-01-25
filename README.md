@@ -100,9 +100,9 @@
 
 ### Clash
 
-[适用x86平台的MacOS Clash下载](https://ghprxoy.com/https://github.com/zzzgydi/clash-verge/releases/download/v1.2.2/Clash.Verge_1.2.2_x64.dmg)
+[适用x86平台的MacOS Clash下载](https://ghproxy.com/https://github.com/zzzgydi/clash-verge/releases/download/v1.2.2/Clash.Verge_1.2.2_x64.dmg)
 
-[适配arm架构的MacOS Clash下载](https://ghprxoy.com/https://github.com/zzzgydi/clash-verge/releases/download/v1.2.2/Clash.Verge_1.2.2_aarch64.dmg)
+[适配arm架构的MacOS Clash下载](https://ghproxy.com/https://github.com/zzzgydi/clash-verge/releases/download/v1.2.2/Clash.Verge_1.2.2_aarch64.dmg)
 
 
 使用教程：

@@ -21,7 +21,7 @@
   搭建脚本推荐：
   
  ```
- wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/reeceyng/v2ray-agent/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh
+wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-a/v2ray-agent/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh
 ```
 
 
@@ -72,7 +72,7 @@
 
 ### ClashMetaForAndroid
 
-[ClashMetaForAndroid](https://ghproxy.com/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/Prerelease-alpha/cmfa-2.6.3-meta-alpha-arm64-v8a-release.apk)
+[ClashMetaForAndroid](https://ghproxy.com/https://github.com/ugvf2009/Miles/blob/master/cmfa-2.6.5-meta-alpha-arm64-v8a-release.apk)
 
 简易教程：
 1、打开软件，点第2个配置。
@@ -100,9 +100,9 @@
 
 ### Clash
 
-[适用x86平台的MacOS Clash下载](https://ghproxy.com/https://github.com/zzzgydi/clash-verge/releases/download/v1.2.2/Clash.Verge_1.2.2_x64.dmg)
+[适用x86平台的MacOS Clash下载](https://ghproxy.com/https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.20.15/Clash.for.Windows-0.20.15.dmg)
 
-[适配arm架构的MacOS Clash下载](https://ghproxy.com/https://github.com/zzzgydi/clash-verge/releases/download/v1.2.2/Clash.Verge_1.2.2_aarch64.dmg)
+[适配arm架构的MacOS Clash下载](https://ghproxy.com/https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.20.15/Clash.for.Windows-0.20.15-arm64.dmg)
 
 
 使用教程：

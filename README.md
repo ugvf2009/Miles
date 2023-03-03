@@ -38,7 +38,7 @@ wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-
 
 
 
-| [点我下载](https://ghproxy.com/https://github.com/2dust/v2rayN/releases/download/6.6/v2rayN-With-Core.zip)      |
+| [点我下载](https://ghproxy.com/https://github.com/2dust/v2rayN/releases/download/6.14/v2rayN-With-Core.zip)      |
 
 下载软件解压后双击文件夹里 V2rayN.exe，在订阅设置里添加订阅:https://jiang.netlify.app
 点击更新一下订阅，收到节点即可使用。
@@ -50,7 +50,7 @@ wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-
 
 ### v2rayNG
  
- [v2rayNG下载](https://ghproxy.com/https://github.com/2dust/v2rayNG/releases/download/1.7.34/v2rayNG_1.7.34_arm64-v8a.apk)
+ [v2rayNG下载](https://ghproxy.com/https://github.com/2dust/v2rayNG/releases/download/1.7.38/v2rayNG_1.7.38_arm64-v8a.apk)
  
 **使用方法：**
 

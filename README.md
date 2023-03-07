@@ -72,7 +72,7 @@ wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-
 
 ### ClashMetaForAndroid
 
-[ClashMetaForAndroid](https://ghproxy.com/https://github.com/ugvf2009/Miles/blob/master/cmfa-2.6.5-meta-alpha-arm64-v8a-release.apk)
+[ClashMetaForAndroid](https://ghproxy.com/https://github.com/ugvf2009/Miles/blob/master/cmfa-2.6.8-meta-alpha-arm64-v8a-release.apk)
 
 简易教程：
 1、打开软件，点第2个配置。

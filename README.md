@@ -14,9 +14,12 @@
 
 5. 对于安全性要求高的朋友，二爷推荐自己购买vps搭建梯子。
 
-  💕**便宜方案 [点我购买Cloudcone](https://app.cloudcone.com/?ref=2616)  流量大一些，推荐有技术背景的人使用。**💕💕
+  💕便宜方案 [点我购买Cloudcone](https://app.cloudcone.com/?ref=2616)  流量大一些，推荐有技术背景的人使用。💕💕
 
-  💕**翻墙级的泰斗 [点我购买搬瓦工](https://bandwagonhost.com/aff.php?aff=21498)  付款的时候可使用优惠码：BWH3HYATVBJW**💕
+  💕翻墙级的泰斗 [点我购买搬瓦工](https://bandwagonhost.com/aff.php?aff=21498)  付款的时候可使用优惠码：
+BWHNCXNVXV （优惠力度 6.81%）
+BWHYWVNCXX （优惠力度 5.93%）
+BWHZWZNVXC （优惠力度 5.5%）💕
 
   搭建脚本推荐：
   

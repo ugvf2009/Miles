@@ -41,7 +41,7 @@ wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-
 
 
 
-| [点我下载](https://ghproxy.com/https://github.com/2dust/v2rayN/releases/download/6.14/v2rayN-With-Core.zip)      |
+| [点我下载](https://ghproxy.com/https://github.com/2dust/v2rayN/releases/download/6.22/v2rayN-With-Core.zip)      |
 
 下载软件解压后双击文件夹里 V2rayN.exe，在订阅设置里添加订阅:https://jiang.netlify.app
 点击更新一下订阅，收到节点即可使用。
@@ -53,7 +53,7 @@ wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-
 
 ### v2rayNG
  
- [v2rayNG下载](https://ghproxy.com/https://github.com/2dust/v2rayNG/releases/download/1.7.38/v2rayNG_1.7.38_arm64-v8a.apk)
+ [v2rayNG下载](https://ghproxy.com/https://github.com/2dust/v2rayNG/releases/download/1.8.2/v2rayNG_1.8.2_arm64-v8a.apk)
  
 **使用方法：**
 
@@ -75,7 +75,7 @@ wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-
 
 ### ClashMetaForAndroid
 
-[ClashMetaForAndroid](https://ghproxy.com/https://github.com/ugvf2009/Miles/blob/master/cmfa-2.6.8-meta-alpha-arm64-v8a-release.apk)
+[ClashMetaForAndroid](https://ghproxy.com/https://github.com/ugvf2009/Miles/blob/master/cmfa-2.7.1-meta-alpha-arm64-v8a-release.apk)
 
 简易教程：
 1、打开软件，点第2个配置。
@@ -103,9 +103,9 @@ wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-
 
 ### Clash
 
-[适用x86平台的MacOS Clash下载](https://ghproxy.com/https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.20.15/Clash.for.Windows-0.20.15.dmg)
+[适用x86平台的MacOS Clash下载](https://ghproxy.com/https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.20.20/Clash.for.Windows-0.20.20.dmg)
 
-[适配arm架构的MacOS Clash下载](https://ghproxy.com/https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.20.15/Clash.for.Windows-0.20.15-arm64.dmg)
+[适配arm架构的MacOS Clash下载](https://ghproxy.com/https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.20.20/Clash.for.Windows-0.20.20-arm64.dmg)
 
 
 使用教程：

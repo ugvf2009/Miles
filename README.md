@@ -97,6 +97,7 @@ wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-
 ### Shadowrocket(俗称“小火箭”)
 [美国区AppStore下载地址](https://apps.apple.com/us/app/shadowrocket/id932747118?l=zh)
 > 这是付费软件，2.99$ 买断，一包烟钱。建议自己注册美国区Apple ID账号然后去某宝买美国区礼品卡充值购买。别到处找免费账号了。时间成本太大。
+[白嫖在这里，注意看说明，防止锁手机。https://mhao91.cc/](https://mhao91.cc/)
 
 
 ## 4、Mac平台

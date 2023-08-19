@@ -24,6 +24,7 @@
 wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-a/v2ray-agent/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh
 ```
 
+6. [记录历史，点击下载安卓手机息屏录像工具](https://ghproxy.com/https://raw.githubusercontent.com/ugvf2009/Miles/master/video.apk)
 
 
 

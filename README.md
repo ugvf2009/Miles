@@ -14,7 +14,7 @@
 
 5. 对于安全性要求高的朋友，二爷推荐自己购买vps搭建梯子。
 
-  💕便宜方案 [点我购买Cloudcone 16.80$/年](https://app.cloudcone.com/vps/172/create?token=hashtag-2023-vps-2&ref=2616) 
+  💕便宜方案 [点我购买Cloudcone 16.50$/年](https://app.cloudcone.com/vps/204/create?token=pre-bf-vps-23-1&ref=2616) 
   它家无限流量超了也可以继续使用，流量大户可入手，IP 如果是被墙的，建议使用Cloudflare中转使用。💕💕
 
 

@@ -14,7 +14,8 @@
 
 5. 对于安全性要求高的朋友，二爷推荐自己购买vps搭建梯子。
 
-  💕便宜方案 [点我购买Cloudcone 9.50$/年](https://app.cloudcone.com/vps/220/create?token=xmas-cs-vps-23-1&ref=2616) 
+  💕便宜方案 [价格：$16.3/Year]( https://app.cloudcone.com/vps/241/create?ref=2616&token=easter-24-1) 
+  配    置： 1vCPU, 1024MB, 55GBs, 3 TB/Mo on 1 Gb/s
   它家sc2 好像有Bug，无限流量超了也可以继续使用，流量大户可入手，IP 如果是被墙的，建议使用Cloudflare中转使用。💕💕
 
 
@@ -24,7 +25,7 @@
 wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-a/v2ray-agent/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh
 ```
 
-6. [记录历史，点击下载安卓手机息屏录像工具](https://ghproxy.com/https://raw.githubusercontent.com/ugvf2009/Miles/master/video.apk)
+6. [记录历史，点击下载安卓手机息屏录像工具](https://mirror.ghproxy.com/https://raw.githubusercontent.com/ugvf2009/Miles/master/video.apk)
 
 
 
@@ -39,7 +40,7 @@ wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-
 
 
 
-| [点我下载](https://ghproxy.com/https://github.com/2dust/v2rayN/releases/download/6.22/v2rayN-With-Core.zip)      |
+| [点我下载](https://mirror.ghproxy.com/https://github.com/2dust/v2rayN/releases/download/6.22/v2rayN-With-Core.zip)      |
 
 下载软件解压后双击文件夹里 V2rayN.exe，在订阅设置里添加订阅:https://jiang.netlify.app
 点击更新一下订阅，收到节点即可使用。
@@ -51,7 +52,7 @@ wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-
 
 ### v2rayNG
  
- [v2rayNG下载](https://ghproxy.com/https://github.com/2dust/v2rayNG/releases/download/1.8.2/v2rayNG_1.8.2_arm64-v8a.apk)
+ [v2rayNG下载](https://mirror.ghproxy.com/https://github.com/2dust/v2rayNG/releases/download/1.8.2/v2rayNG_1.8.2_arm64-v8a.apk)
  
 **使用方法：**
 
@@ -73,14 +74,14 @@ wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-
 
 ### ClashMetaForAndroid
 
-[ClashMetaForAndroid](https://ghproxy.com/https://raw.githubusercontent.com/ugvf2009/Miles/master/cmfa-2.7.1-meta-alpha-arm64-v8a-release.apk)
+[ClashMetaForAndroid](https://mirror.ghproxy.com/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/Prerelease-alpha/cmfa-2.10.1-meta-alpha-arm64-v8a-release.apk)
 
 简易教程：
 1、打开软件，点第2个配置。
 2、点“新配置”》“URL"》找到“第3个URL》复制下面的地址粘贴进去
 
  ```
- https://shorturl.1808.cf/kSJmAF
+ https://shorturl.731808.eu.org/kSJmAF
  ```
 
 》自动更新 那里写60分钟即可。》然后点右上角保存。

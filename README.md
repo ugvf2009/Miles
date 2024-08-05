@@ -14,9 +14,9 @@
 
 5. 对于安全性要求高的朋友，二爷推荐自己购买vps搭建梯子。
 
-  💕便宜方案 [价格：$16.3/Year]( https://app.cloudcone.com/vps/256/create?token=cc-turns-7-vps-1&ref=2616) 
-  配    置： 1vCPU, 1024MB, 55GBs, 3 TB/Mo on 1 Gb/s
-  它家sc2 好像有Bug，无限流量超了也可以继续使用，流量大户可入手，IP 如果是被墙的，建议使用Cloudflare中转使用。💕💕
+  💕便宜方案 [价格：$13.99/Year](https://app.cloudcone.com/vps/265/create?token=mcs-24-ssd-vps-1&ref=2616) 
+  配    置： MCS-24-SSD-VPS-1 vCPU：2 内存：1 GB 空间：20 GB SSD（RAID 10） 流量：3 TB / 月（1Gbps端口） IPv4：1  $13.99/年
+家sc2 好像有Bug，无限流量超了也可以继续使用，流量大户可入手，IP 如果是被墙的，建议使用Cloudflare中转使用。💕💕
 
 
   搭建脚本推荐：
@@ -40,7 +40,7 @@ wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-
 
 
 
-| [点我下载](https://mirror.ghproxy.com/https://github.com/2dust/v2rayN/releases/download/6.22/v2rayN-With-Core.zip)      |
+| [点我下载](https://mirror.ghproxy.com/https://github.com/2dust/v2rayN/releases/download/6.55/v2rayN-With-Core.zip)      |
 
 下载软件解压后双击文件夹里 V2rayN.exe，在订阅设置里添加订阅:https://jiang.netlify.app
 点击更新一下订阅，收到节点即可使用。
@@ -52,7 +52,7 @@ wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-
 
 ### v2rayNG
  
- [v2rayNG下载](https://mirror.ghproxy.com/https://github.com/2dust/v2rayNG/releases/download/1.8.2/v2rayNG_1.8.2_arm64-v8a.apk)
+ [v2rayNG下载](https://mirror.ghproxy.com/https://github.com/2dust/v2rayNG/releases/download/1.8.36/v2rayNG_1.8.36_arm64-v8a.apk)
  
 **使用方法：**
 

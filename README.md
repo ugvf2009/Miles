@@ -14,15 +14,7 @@
 
 5. 对于安全性要求高的朋友，二爷推荐自己购买vps搭建梯子。
 
-  💕便宜方案 [价格：$19.99/Year](https://app.cloudcone.com/vps/268/create?ref=2616&token=hashtag-2024-ssd-vps-2) 
-配    置： 
-4 vCPU Cores
-2 GB Dedicated RAM
-30 GB Pure SSD Disk
-On RAID-10 Configuration
-4 TB/Mo Bandwidth at 1 Gb/s
-1x IPv4 and 3x IPv6
-Location: Los Angeles, US
+  💕便宜方案 [价格：$12/Year](https://app.cloudcone.com/vps/262/create?token=cc-turns-7-cs-1&ref=2616) 
 
 家sc2 好像有Bug，无限流量超了也可以继续使用，流量大户可入手，IP 如果是被墙的，建议使用Cloudflare中转使用。💕💕
 

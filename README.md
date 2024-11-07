@@ -42,7 +42,7 @@ wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-
 
 
 
-| [点我下载](https://mirror.ghproxy.com/https://github.com/2dust/v2rayN/releases/download/6.55/v2rayN-With-Core.zip)      |
+| [点我下载](https://mirror.ghproxy.com/https://github.com/2dust/v2rayN/releases/download/7.0.7/v2rayN-windows-64-With-Core.zip)      |
 
 下载软件解压后双击文件夹里 V2rayN.exe，在订阅设置里添加订阅:https://jiang.netlify.app
 点击更新一下订阅，收到节点即可使用。

@@ -14,9 +14,11 @@
 
 5. 对于安全性要求高的朋友，二爷推荐自己购买vps搭建梯子。
 
-  💕便宜方案 [价格：$12/Year](https://app.cloudcone.com/vps/262/create?token=cc-turns-7-cs-1&ref=2616) 
+  💕便宜方案
+  [低配方案$13.99/Year](https://app.cloudcone.com/vps/282/create?token=pre-bf-24-ssd-vps-1&ref=2616) 
+  [高配方案$21.21/Year](https://app.cloudcone.com/vps/283/create?token=pre-bf-24-ssd-vps-2&ref=2616)
 
-家sc2 好像有Bug，无限流量超了也可以继续使用，流量大户可入手，IP 如果是被墙的，建议使用Cloudflare中转使用。💕💕
+sc2 好像有Bug，无限流量超了也可以继续使用，流量大户可入手，IP 如果是被墙的，建议使用Cloudflare中转使用。💕💕
 
 
   搭建脚本推荐：
@@ -52,7 +54,7 @@ wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-
 
 ### v2rayNG
  
- [v2rayNG下载](https://mirror.ghproxy.com/https://github.com/2dust/v2rayNG/releases/download/1.8.36/v2rayNG_1.8.36_arm64-v8a.apk)
+ [v2rayNG下载](https://mirror.ghproxy.com/https://github.com/2dust/v2rayNG/releases/download/1.9.13/v2rayNG_1.9.13_arm64-v8a.apk)
  
 **使用方法：**
 
@@ -74,7 +76,7 @@ wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-
 
 ### ClashMetaForAndroid
 
-[ClashMetaForAndroid](https://mirror.ghproxy.com/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/Prerelease-alpha/cmfa-2.10.1-meta-alpha-arm64-v8a-release.apk)
+[ClashMetaForAndroid](https://mirror.ghproxy.com/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/Prerelease-alpha/cmfa-2.11.2-alpha-arm64-v8a-release.apk)
 
 简易教程：
 1、打开软件，点第2个配置。
@@ -103,9 +105,9 @@ wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-
 
 ### Clash
 
-[适用x86平台的MacOS Clash下载](https://ghproxy.com/https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.20.20/Clash.for.Windows-0.20.20.dmg)
+[适用x86平台的MacOS Clash下载](https://ghproxy.com/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/alpha/Clash.Verge_2.0.0-rc.5_x64.dmg)
 
-[适配arm架构的MacOS Clash下载](https://ghproxy.com/https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.20.20/Clash.for.Windows-0.20.20-arm64.dmg)
+[适配arm架构的MacOS Clash下载](https://ghproxy.com/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/alpha/Clash.Verge_2.0.0-rc.5_aarch64.dmg)
 
 
 使用教程：

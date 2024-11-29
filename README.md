@@ -15,7 +15,7 @@
 5. 对于安全性要求高的朋友，二爷推荐自己购买vps搭建梯子。
 
   💕便宜方案
-  [高配方案$21.21/Year](https://app.cloudcone.com/vps/1/create?token=vps-1&ref=2616)
+  [高配方案$12.99/Year](https://app.cloudcone.com/vps/292/create?ref=2616&token=bf-24-ssd-vps-2)
 
 sc2 好像有Bug，无限流量超了也可以继续使用，流量大户可入手，IP 如果是被墙的，建议使用Cloudflare中转使用。💕💕
 

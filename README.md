@@ -1,133 +1,174 @@
+---
+
 # 二爷翻墙网
 
-## Google搜索“二爷翻墙”即可找到二爷
-二爷会在力所能及的范围内提供免费优质的服务。
-[有经验的直接点这里](https://tlanyan.me/v2ray-clients-download/)
-## 一切都是刚刚开始！&&  一切已经开始。
-1. 建立本站初衷，一直有人问我怎么翻墙，本人比较懒，就建立了本站，教程完全是按照对翻墙不懂的小白写的，工具基本上都是打开即用的。如果你们因为二爷的翻墙教程，能够科学上网，拯救智商受益了。本人将由衷欣慰。使用二爷软件时，请卸载各种“360爱国卫士”，因为它会监控你，不喜欢我的风格，请直接点右上角关闭，不接受小粉红在我的issues区瞎BB。
+## 搜索「二爷翻墙」，轻松找到二爷！
 
-2. 本页面部分语言可能有背于社会主义科学价值观，不喜匆视即可。
+在力所能及的范围内，二爷一直坚持提供免费且优质的科学上网服务。
 
-3. 工具仅限于科学上网学术研究等，请遵守相关法律法规，不做违背党和国家的事。由此产生的后果，由使用者自己承担，其实我也不知道你干啥，总之，干就完了！😘💕
+👉 [老司机点这里直达工具下载页面](https://tlanyan.me/v2ray-clients-download/)
 
-4. 如果你有账号乐于助人，欢迎将配置发至：[minzhuziyou@protonmail.com](minzhuziyou@protonmail.com)
+---
 
-5. 对于安全性要求高的朋友，二爷推荐自己购买vps搭建梯子。
-
-  💕便宜方案
-  [高配方案$12.99/Year](https://app.cloudcone.com/vps/292/create?ref=2616&token=bf-24-ssd-vps-2)
-
-sc2 好像有Bug，无限流量超了也可以继续使用，流量大户可入手，IP 如果是被墙的，建议使用Cloudflare中转使用。💕💕
+## 初衷 & 声明
 
 
-  搭建脚本推荐：
-  
- ```
+1. 建立本网站的初衷，是因为总有人问我如何翻墙。为了节省口水，也为了让小白也能上车，我写下了这些教程。工具都是开箱即用型，零基础也能上手。如果你因此受益，能科学上网、提升认知，我便心满意足。
+
+2. 网站部分内容可能不符合某些主流价值观，如果你不喜欢，请直接关闭页面，不必多言。Issues 区谢绝无意义喷子。
+
+3. 工具仅用于科研学习等正当用途。请务必遵守所在地法律法规，使用行为责任自负。
+
+4. 如果你有可用账号并愿意分享，也欢迎发配置到：[minzhuziyou@protonmail.com](mailto:minzhuziyou@protonmail.com)
+
+5. 对于有安全或隐私需求的朋友，推荐自建 VPS。
+
+### 🌟推荐便宜 VPS 方案：
+
+* **\$20/年高配方案**：[点我直达 CloudCone](https://app.cloudcone.com/vps/356/create?token=ssd-vps-2&ref=2616)
+
+> 备注：sc2 有可能存在无限流量 Bug。建议使用 Cloudflare 中转，如 IP 被墙。
+
+### 💻一键搭建脚本推荐：
+
+```bash
 wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-a/v2ray-agent/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh
 ```
 
-6. [记录历史，点击下载安卓手机息屏录像工具](https://mirror.ghproxy.com/https://raw.githubusercontent.com/ugvf2009/Miles/master/video.apk)
+---
 
+## 平台支持 & 教程
 
+### 1. Windows 平台
 
-* 别人想翻墙，扫下面这个二维码,大家传播下面的二维码吧。
+**推荐工具：V2rayN**
 
-![url.png](https://i.loli.net/2019/11/05/VcNaIKUyJ7twsSf.png)
+* 下载地址：[点击下载](https://slink.ltd/https://github.com/2dust/v2rayN/releases/download/7.12.6/v2rayN-windows-64-SelfContained.zip)
 
+使用步骤：
 
+1. 解压后运行 `V2rayN.exe`
 
-## 1、windows平台软件：
-### V2rayN
+2. 在订阅设置中添加订阅地址：
 
+   ```
+   https://jiang.netlify.app
+   ```
 
+3. 点击“更新订阅”，收到节点即可使用。
 
-| [点我下载](https://mirror.ghproxy.com/https://github.com/2dust/v2rayN/releases/download/7.0.7/v2rayN-windows-64-With-Core.zip)      |
+如无法使用，右键托盘图标选择：
+`系统代理 > 自动配置系统代理`
 
-下载软件解压后双击文件夹里 V2rayN.exe，在订阅设置里添加订阅:https://jiang.netlify.app
-点击更新一下订阅，收到节点即可使用。
-如不可以，请点右下角程序图标，点右键，依次选择“系统代理》自动配置系统代理”。
+![订阅设置示意图](https://i.loli.net/2021/03/05/IA5US8H1KtEk6lF.png)
 
-![订阅设置.png](https://i.loli.net/2021/03/05/IA5US8H1KtEk6lF.png)
+---
 
-## 2、Android平台软件
+### 2. Android 平台
 
-### v2rayNG
- 
- [v2rayNG下载](https://mirror.ghproxy.com/https://github.com/2dust/v2rayNG/releases/download/1.9.13/v2rayNG_1.9.13_arm64-v8a.apk)
- 
-**使用方法：**
+**推荐工具：v2rayNG**
 
-打开软件点左上角，选择“订阅设置”
-依次点“+”号；备注随便写。
-在地址（URL）那填写下面的链接
- ```
- https://jiang.netlify.app
-```
-> 然后点右上角的小对号保存。
-退出来后，点右上角的三个小点，点击》最下面的 更新订阅，
-就能收到二爷给您准备好的服务器了。
-点右下角的小V，连接，即可连接国际互联网了。
-此时是全局代理，如想自动代理，请在设置里，更改路由模式为“绕过局域网和大陆”即可，
-国外的网站经过代理服务器，国内的直连。
-从此上车，随便飞。发现访问不了Google，请及时更新订阅哦
+* 下载地址：[点击下载 APK](https://slink.ltd/https://github.com/2dust/v2rayNG/releases/download/1.10.6/v2rayNG_1.10.6_arm64-v8a.apk)
 
-**更新方法：一定要断开右下角的小“V”图标，点右上角有3个小点，选择“更新订阅！”**
+设置方式：
 
-### ClashMetaForAndroid
+1. 打开 App → 点击左上角 → 订阅设置 → 点击“+”
 
-[ClashMetaForAndroid](https://mirror.ghproxy.com/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/Prerelease-alpha/cmfa-2.11.2-alpha-arm64-v8a-release.apk)
+2. 备注随意写，地址填：
 
-简易教程：
-1、打开软件，点第2个配置。
-2、点“新配置”》“URL"》找到“第3个URL》复制下面的地址粘贴进去
+   ```
+   https://jiang.netlify.app
+   ```
 
- ```
- https://shorturl.731808.eu.org/kSJmAF
- ```
+3. 保存 → 返回主界面 → 点击右上角三个点 → 更新订阅 → 收到节点 → 点击右下角“小V”连接即可！
 
-》自动更新 那里写60分钟即可。》然后点右上角保存。
-返回后，点：配置，选择你刚刚添加的配置，选择一下。
-》最后，点击第1个：已停止 三个字启动软件即可。
-不会的话点下面的链接观看小白入门教程
+提示：如需智能代理，设置“路由模式”为“绕过局域网和大陆” 使用vmess/vless ws + tls 的请拉到最下面，打开 “分段”
 
-[Clash4android使用教程](https://pan.731808.cf/Android/clash4android.mp4)
+---
 
-##  3、IOS平台
+**备选工具：ClashMetaForAndroid**
 
-### Shadowrocket(俗称“小火箭”)
-[美国区AppStore下载地址](https://apps.apple.com/us/app/shadowrocket/id932747118?l=zh)
-> 这是付费软件，2.99$ 买断，一包烟钱。建议自己注册美国区Apple ID账号然后去某宝买美国区礼品卡充值购买。别到处找免费账号了。时间成本太大。
-[白嫖在这里，注意看说明，防止锁手机。[https://id.mofati.cc/id/](https://id.mofati.cc/id/)/]
+* 下载地址：[点击下载](https://slink.ltd/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.13/cmfa-2.11.13-meta-arm64-v8a-release.apk)
 
+配置方法：
 
-## 4、Mac平台
+1. 打开 App → 选择第二个配置 → 新建配置 → 选择「URL」模式
 
-### Clash
+2. 粘贴以下订阅地址：
 
-[适用x86平台的MacOS Clash下载](https://ghproxy.com/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/alpha/Clash.Verge_2.0.0-rc.5_x64.dmg)
+   ```
+   https://shorturl.731808.eu.org/kSJmAF
+   ```
 
-[适配arm架构的MacOS Clash下载](https://ghproxy.com/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/alpha/Clash.Verge_2.0.0-rc.5_aarch64.dmg)
+3. 设置自动更新为60分钟，保存 → 激活该配置 → 启动软件即可！
 
+📹[Clash4Android 视频教程](https://pan.731808.cf/Android/clash4android.mp4)
 
-使用教程：
-1.下载 Clash客户端，安装后运行
+---
 
-URL：复制下面的链接粘贴到软件：配置>配置文件链接>点“导入” 
+### 3. iOS 平台
 
- ```
- https://shorturl.1808.cf/kSJmAF
- ```
+**推荐工具：Shadowrocket（小火箭）**
 
-然后，在左侧，找到：设置> 系统代理 打开即可。
+* App Store（美区）购买地址：[点击进入](https://apps.apple.com/us/app/shadowrocket/id932747118?l=zh)
 
+> 需付费（\$2.99 一次性），建议自行注册美区 Apple ID，或某宝购买礼品卡充值购买。
 
+🚨 别使用来路不明的共享账号，容易封号甚至锁设备。
 
-图文教程：
+[如需白嫖，请务必阅读说明：](https://id.bocchi2b.top/)
 
-![photo_2021-03-05_13-13-17.jpg](https://i.loli.net/2021/03/05/Y5KcTHLz2rSjA7y.jpg)
+---
 
+### 4. macOS 平台
 
+**推荐工具：Clash Verge**
 
-后记：由于众所周知的原因，西朝鲜的很多民众由于信息封锁，无法访问民主宪政国家的大型网站，很多真相被蒙蔽。 如Google，Twitter，Facebook，Instagram，Telegram，Tumblr等、 每天看CCAV无脑续集，看手撕鬼子神剧，某某傻逼创业日入万元， 火箭抹上了印度神油，又他妈射天去了，武器军队又牛逼了， 辽宁号装满柴油冒起黑烟出去装逼半道没油了，别人又不敢惹了，我们又有核武器了。 今天范冰冰怀孕，明天杨幂堕胎，马云又上讲台出售精神伟哥， 朋友拉微信让你进群，用话术套路你，“为你省钱”拼团领券立减了，让你消费他就从中获利（佣金）了， 某些傻逼又卖头脑风暴了，这是个欺骗的世界，无知的世界， 中国这群傻逼就是被仁、义、礼、智、信这些所谓的儒家思想给洗脑洗成傻逼了， 其实都他妈的是白天正人君子，晚上男盗女娼，都是一堆Loser。 如果哪个明星不生孩子了，CCAV频道都编不出故事啥哄你们开心了。 这是个戏子横行，婊子丛生，骗子臭不要脸的时代。从上到下跪舔的时代。 傻逼的行为不愿你们。你们也是无辜的，毕竟洗脑洗这么多年了。你们的可怜和无知，才需要在心中树立偶像英雄和领袖。 但我真心希望你们能在二爷的指导下，用二爷提供的方法出去感受一下，拥抱一下这个世界的文明。 二爷做为资深爬墙看片爱好者，特此写了本教程。让你从小白秒变小小白。 来吧，访问世界文明，自由，拥抱普世价值！ 从此告别傻逼傲慢无知没有独立思考能力的自己、做一个有点儿思想的自己。人到暮年，告诉自己儿孙，自己活过。
+* [x86版下载](https://slink.ltd/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.3.0/Clash.Verge_2.3.0_x64.dmg)
+* [Apple Silicon (ARM)版下载](https://slink.ltd/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.3.0/Clash.Verge_2.3.0_aarch64.dmg)
 
-**一切都是刚刚开始！Everything is just begining！&& 一切已经开始！**
+配置方法：
+
+1. 安装并运行 Clash → 配置 → 配置文件链接
+
+2. 粘贴订阅链接：
+
+   ```
+   https://shorturl.731808.eu.org/kSJmAF
+   ```
+
+3. 导入后启用该配置 → 设置中打开“系统代理”
+
+---
+
+## 附加工具推荐
+
+* [安卓手机息屏录像工具（下载 APK）](https://mirror.ghproxy.com/https://raw.githubusercontent.com/ugvf2009/Miles/master/video.apk)
+
+---
+
+## 分享二维码
+
+帮助更多人科学上网：
+
+![二维码](https://i.loli.net/2019/11/05/VcNaIKUyJ7twsSf.png)
+
+---
+
+## 后记：为什么翻墙？
+
+在信息高度封锁的环境下，我们的视野被极度局限，很多重要的信息、观点、工具被人为屏蔽。
+
+让我们从每天“手撕鬼子”、假新闻、伪励志和消费陷阱中清醒过来。
+
+你或许无法改变世界，但你可以改变自己。
+学会思考，获取真实，探索世界，保持独立。
+
+**自由不是天赐，而是认知升级的必然产物。**
+
+---
+
+> 愿你能借由这份教程，从小白进化为一个能自主选择信息的“小小白”。
+
+---
+

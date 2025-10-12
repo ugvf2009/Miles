@@ -43,7 +43,7 @@ wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-
 
 **推荐工具：V2rayN**
 
-* 下载地址：[点击下载](https://slink.ltd/https://github.com/2dust/v2rayN/releases/download/7.12.6/v2rayN-windows-64-SelfContained.zip)
+* 下载地址：[点击下载](https://ghfast.top/https://github.com/2dust/v2rayN/releases/download/7.12.6/v2rayN-windows-64-SelfContained.zip)
 
 使用步骤：
 
@@ -68,7 +68,7 @@ wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-
 
 **推荐工具：v2rayNG**
 
-* 下载地址：[点击下载 APK](https://slink.ltd/https://github.com/2dust/v2rayNG/releases/download/1.10.6/v2rayNG_1.10.6_arm64-v8a.apk)
+* 下载地址：[点击下载 APK](https://ghfast.top/https://github.com/2dust/v2rayNG/releases/download/1.10.23/v2rayNG_1.10.23_arm64-v8a.apk)
 
 设置方式：
 
@@ -88,7 +88,7 @@ wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-
 
 **备选工具：ClashMetaForAndroid**
 
-* 下载地址：[点击下载](https://slink.ltd/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.13/cmfa-2.11.13-meta-arm64-v8a-release.apk)
+* 下载地址：[点击下载](https://ghfast.top/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.13/cmfa-2.11.13-meta-arm64-v8a-release.apk)
 
 配置方法：
 
@@ -124,8 +124,8 @@ wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-
 
 **推荐工具：Clash Verge**
 
-* [x86版下载](https://slink.ltd/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.3.0/Clash.Verge_2.3.0_x64.dmg)
-* [Apple Silicon (ARM)版下载](https://slink.ltd/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.3.0/Clash.Verge_2.3.0_aarch64.dmg)
+* [x86版下载](https://ghfast.top/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.3.0/Clash.Verge_2.3.0_x64.dmg)
+* [Apple Silicon (ARM)版下载](https://ghfast.top/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.3.0/Clash.Verge_2.3.0_aarch64.dmg)
 
 配置方法：
 

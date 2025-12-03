@@ -25,8 +25,8 @@
 
 ### 🌟推荐便宜 VPS 方案：
 
-* **\$14.99/年高配方案**：[点我直达 CloudCone](https://app.cloudcone.com/vps/406/create?ref=2616&token=flash-q3-25-vps-2)
-  **\$10.99/年高配方案**：[点我直达 CloudCone](https://app.cloudcone.com/vps/405/create?ref=2616&token=flash-q3-25-vps-1)
+* **\$23.22/年高配方案**：[点我直达 CloudCone](https://app.cloudcone.com/vps/489/create?token=cm-25-ssd-vps-2&ref=1616)
+
 > 备注：sc2 有可能存在无限流量 Bug。建议使用 Cloudflare 中转，如 IP 被墙。
 
 ### 💻一键搭建脚本推荐：
